@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-17 10:17:39.505483  total: 8648 
+ > update time: 2022-03-17 11:10:27.060168  total: 8650 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.** : [LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits](https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits)  create time: 2022-03-17T11:01:48Z
+
+**exploits XAR – Arbitrary File Write** : [poizon-box/CVE-2022-22582](https://github.com/poizon-box/CVE-2022-22582)  create time: 2022-03-17T10:16:27Z
 
 **CVE-2022-22947_POC_EXP** : [Wrin9/CVE-2022-22947](https://github.com/Wrin9/CVE-2022-22947)  create time: 2022-03-17T09:12:51Z
 
