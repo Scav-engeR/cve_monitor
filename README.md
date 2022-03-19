@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-19 17:12:11.488852  total: 8671 
+ > update time: 2022-03-19 20:11:36.475561  total: 8672 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Documentation and proof of concept code for CVE-2022-24126.** : [tremwil/ds3-nrssr-rce](https://github.com/tremwil/ds3-nrssr-rce)  create time: 2022-01-28T20:37:14Z
 
 **WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)** : [DavidBuchanan314/WAMpage](https://github.com/DavidBuchanan314/WAMpage)  create time: 2021-12-26T04:29:09Z
 
