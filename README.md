@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-19 16:13:15.007368  total: 8670 
+ > update time: 2022-03-19 17:12:11.488852  total: 8671 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)** : [DavidBuchanan314/WAMpage](https://github.com/DavidBuchanan314/WAMpage)  create time: 2021-12-26T04:29:09Z
 
 **CVE-2020-0890 | Windows Hyper-V Denial of Service Vulnerability proof-of-concept code** : [skasanagottu57gmailv/gerhart01](https://github.com/skasanagottu57gmailv/gerhart01)  create time: 2022-03-19T15:47:10Z
 
