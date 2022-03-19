@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-18 23:12:39.288890  total: 8661 
+ > update time: 2022-03-19 02:07:15.039456  total: 8664 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys.** : [2273852279qqs/0vercl0k](https://github.com/2273852279qqs/0vercl0k)  create time: 2022-03-19T01:33:04Z
+
+**TOP All bugbounty pentesting CVE-2022- POC Exp  Things** : [hktalent/TOP](https://github.com/hktalent/TOP)  create time: 2022-03-19T01:54:15Z
+
+**Exploit for CVE-2022-27226** : [SakuraSamuraii/ez-iRZ](https://github.com/SakuraSamuraii/ez-iRZ)  create time: 2022-03-16T17:45:12Z
 
 **Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well)** : [LudovicPatho/CVE-2022-0847](https://github.com/LudovicPatho/CVE-2022-0847)  create time: 2022-03-18T22:51:02Z
 
