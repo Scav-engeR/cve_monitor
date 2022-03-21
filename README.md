@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-21 09:15:49.268771  total: 8686 
+ > update time: 2022-03-21 10:17:34.752765  total: 8687 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple webhook to block exploitation of CVE-2022-0811** : [spiarh/webhook-cve-2022-0811](https://github.com/spiarh/webhook-cve-2022-0811)  create time: 2022-03-21T09:39:22Z
 
 **Dirty Cow CVE-2016-5195 Vulnerability** : [gurpreetsinghsaluja/dirtycow](https://github.com/gurpreetsinghsaluja/dirtycow)  create time: 2022-03-21T08:35:21Z
 
