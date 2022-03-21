@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-21 20:17:34.955406  total: 8690 
+ > update time: 2022-03-21 22:12:23.925596  total: 8691 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Reproduction of CVE-2020-36518 in Spring Boot 2.5.10** : [ghillert/boot-jackson-cve](https://github.com/ghillert/boot-jackson-cve)  create time: 2022-03-21T21:13:28Z
 
 **no description** : [yazan828/CVE-2017-1000004](https://github.com/yazan828/CVE-2017-1000004)  create time: 2022-03-21T13:35:38Z
 
