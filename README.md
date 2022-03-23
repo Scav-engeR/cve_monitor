@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-23 03:24:47.817870  total: 8699 
+ > update time: 2022-03-23 06:14:20.677689  total: 8700 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite.** : [domain9065v/bazad3](https://github.com/domain9065v/bazad3)  create time: 2022-03-23T06:02:52Z
 
 **this is just a test** : [buff07/CVE-2022-40193](https://github.com/buff07/CVE-2022-40193)  create time: 2022-03-18T02:30:11Z
 
