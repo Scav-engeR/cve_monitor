@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-22 23:12:21.201866  total: 8698 
+ > update time: 2022-03-23 03:24:47.817870  total: 8699 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**this is just a test** : [buff07/CVE-2022-40193](https://github.com/buff07/CVE-2022-40193)  create time: 2022-03-18T02:30:11Z
 
 **Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely** : [Mario-Kart-Felix/firewall-cve](https://github.com/Mario-Kart-Felix/firewall-cve)  create time: 2022-03-22T22:53:32Z
 
