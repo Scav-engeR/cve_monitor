@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-27 21:11:03.220923  total: 8730 
+ > update time: 2022-03-28 00:39:14.158301  total: 8732 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE 2020-1034 exploit and presentation** : [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034)  create time: 2022-03-23T19:14:26Z
+
+**Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928** : [GatoGamer1155/CVE-2021-27928](https://github.com/GatoGamer1155/CVE-2021-27928)  create time: 2022-03-27T23:46:36Z
 
 **no description** : [N3w-elf/CVE-2021-41773-](https://github.com/N3w-elf/CVE-2021-41773-)  create time: 2022-03-27T20:10:30Z
 
