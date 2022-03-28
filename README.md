@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-28 08:19:07.904285  total: 8738 
+ > update time: 2022-03-28 09:17:55.965744  total: 8739 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Check and report for cve_2022_23307 (log4shell) on your system.** : [buluma/ansible-role-cve_2022-23307](https://github.com/buluma/ansible-role-cve_2022-23307)  create time: 2022-03-28T08:20:31Z
 
 **no description** : [Tankirat/CVE-2017-5638](https://github.com/Tankirat/CVE-2017-5638)  create time: 2022-03-28T07:58:31Z
 
