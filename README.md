@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 15:17:31.798390  total: 8759 
+ > update time: 2022-03-29 16:15:59.607890  total: 8761 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tzwlhack/CVE-2022-24934](https://github.com/tzwlhack/CVE-2022-24934)  create time: 2022-03-29T15:51:29Z
+
+**no description** : [tzwlhack/WPS-CVE-2022-24934](https://github.com/tzwlhack/WPS-CVE-2022-24934)  create time: 2022-03-29T15:29:59Z
 
 **no description** : [nanopathi/CVE-2020-29370_AFTERFIX](https://github.com/nanopathi/CVE-2020-29370_AFTERFIX)  create time: 2022-03-29T14:17:51Z
 
