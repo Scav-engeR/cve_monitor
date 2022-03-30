@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-30 05:11:35.518521  total: 8775 
+ > update time: 2022-03-30 07:13:55.404813  total: 8777 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**BatFlat CMS v1.3.6 - Improper Access Control** : [LeoBreaker1411/CVE-2021-41652](https://github.com/LeoBreaker1411/CVE-2021-41652)  create time: 2022-03-30T06:29:02Z
+
+**Details,PoC and patches for CVE-2022-23884** : [LuckyDogDog/CVE-2022-23884](https://github.com/LuckyDogDog/CVE-2022-23884)  create time: 2022-03-30T04:26:31Z
 
 **no description** : [nanopathi/KERNEL_CVE-2020-29370_FIX](https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX)  create time: 2022-03-30T04:52:56Z
 
