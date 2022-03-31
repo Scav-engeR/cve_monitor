@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 09:17:55.541914  total: 8801 
+ > update time: 2022-03-31 10:18:39.489111  total: 8805 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2010-1622 redux** : [DDuarte/springshell-rce-poc](https://github.com/DDuarte/springshell-rce-poc)  create time: 2022-03-31T08:06:46Z
+
+**no description** : [Aevanathema/cve2018go](https://github.com/Aevanathema/cve2018go)  create time: 2022-03-29T09:19:58Z
+
+**no description** : [Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330](https://github.com/Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330)  create time: 2022-03-31T09:36:07Z
+
+**no description** : [webraybtl/CVE-2022-24934](https://github.com/webraybtl/CVE-2022-24934)  create time: 2022-03-31T09:59:01Z
 
 **ColdFusion 8.0.1 - Arbitrary File Upload to RCE** : [persian64/CVE-2009-2265](https://github.com/persian64/CVE-2009-2265)  create time: 2022-03-31T08:52:08Z
 
