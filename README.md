@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 07:13:13.252535  total: 8799 
+ > update time: 2022-03-31 08:19:50.603441  total: 8800 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/system_core_AOSP10_r33_CVE-2020-0421](https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0421)  create time: 2022-03-31T07:42:58Z
 
 **no description** : [nanopathi/system_bt_AOSP10_r33_CVE-2020-0463](https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0463)  create time: 2022-03-31T06:59:38Z
 
