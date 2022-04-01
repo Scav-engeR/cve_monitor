@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 09:17:30.710116  total: 8840 
+ > update time: 2022-04-01 10:17:54.501630  total: 8842 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/external_aac_AOSP10_r33_CVE-2020-0451](https://github.com/nanopathi/external_aac_AOSP10_r33_CVE-2020-0451)  create time: 2022-04-01T09:20:38Z
+
+**Proof-of-Concept for CVE-2022-22965 exploitation on a self-contained .JAR file built with Maven. Based off https://github.com/Kirill89/CVE-2022-22963-PoC and https://github.com/Pizz33/Spring-Cloud-Function-SpEL** : [JDierberger1/CVE-2022-22965-JAR-SCA-POC](https://github.com/JDierberger1/CVE-2022-22965-JAR-SCA-POC)  create time: 2022-04-01T10:05:44Z
 
 **no description** : [Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392](https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392)  create time: 2022-04-01T08:43:48Z
 
