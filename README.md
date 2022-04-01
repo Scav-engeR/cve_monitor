@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 06:14:44.878746  total: 8832 
+ > update time: 2022-04-01 07:12:36.326570  total: 8836 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241)  create time: 2022-04-01T06:45:15Z
+
+**Python Script for exploiting CVE-2022-22965** : [0xbughunter/Spring4Shell-Exploit-PoC](https://github.com/0xbughunter/Spring4Shell-Exploit-PoC)  create time: 2022-04-01T07:01:05Z
+
+**Spring-0day/CVE-2022-22965** : [nu0l/CVE-2022-22965](https://github.com/nu0l/CVE-2022-22965)  create time: 2022-04-01T06:50:21Z
+
+**Showcase of overridding the Spring Framework version in older Spring Boot versions** : [snicoll-scratches/spring-boot-cve-2022-22965](https://github.com/snicoll-scratches/spring-boot-cve-2022-22965)  create time: 2022-04-01T06:16:20Z
 
 **no description** : [Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652)  create time: 2022-04-01T06:06:53Z
 
