@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-03 15:11:47.906667  total: 8881 
+ > update time: 2022-04-03 16:13:51.221309  total: 8882 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache forward request CVE** : [Kashkovsky/CVE-2021-40438](https://github.com/Kashkovsky/CVE-2021-40438)  create time: 2022-04-03T15:24:24Z
 
 **Linux “Dirty Pipe” vulnerability gives unprivileged users root access** : [xnderLAN/CVE-2022-0847](https://github.com/xnderLAN/CVE-2022-0847)  create time: 2022-04-03T14:08:54Z
 
