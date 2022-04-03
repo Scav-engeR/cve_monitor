@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-03 17:13:08.581270  total: 8883 
+ > update time: 2022-04-03 23:11:23.938401  total: 8884 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [persian64/CVE-2018-7600](https://github.com/persian64/CVE-2018-7600)  create time: 2022-04-03T22:45:53Z
 
 **Atlassian Jira XSS attack via Server Side Request Forgery (SSRF).** : [labsbots/CVE-2017-9506](https://github.com/labsbots/CVE-2017-9506)  create time: 2022-04-03T16:23:13Z
 
