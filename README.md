@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-04 02:41:43.787182  total: 8885 
+ > update time: 2022-04-04 05:12:36.748402  total: 8887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377](https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377)  create time: 2022-04-04T04:52:47Z
+
+**no description** : [Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413](https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413)  create time: 2022-04-04T04:44:39Z
 
 **Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965** : [me2nuk/CVE-2022-22965](https://github.com/me2nuk/CVE-2022-22965)  create time: 2022-04-01T13:35:01Z
 
