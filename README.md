@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-04 05:12:36.748402  total: 8887 
+ > update time: 2022-04-04 06:14:16.522295  total: 8888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)** : [gpiechnik2/nmap-spring4shell](https://github.com/gpiechnik2/nmap-spring4shell)  create time: 2022-04-03T01:27:28Z
 
 **no description** : [Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377](https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377)  create time: 2022-04-04T04:52:47Z
 
