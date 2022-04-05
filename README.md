@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-05 14:16:14.043903  total: 8908 
+ > update time: 2022-04-05 16:17:21.080343  total: 8911 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit Of Spring4Shell!** : [robiul-awal/CVE-2022-22965](https://github.com/robiul-awal/CVE-2022-22965)  create time: 2022-04-05T15:45:47Z
+
+**Spring Framework RCE Exploit** : [luoqianlin/CVE-2022-22965](https://github.com/luoqianlin/CVE-2022-22965)  create time: 2022-04-05T15:41:26Z
+
+**Spring4Shell is a critical RCE vulnerability in the Java Spring Framework and is one of three related vulnerabilities published on March 30** : [xnderLAN/CVE-2022-22965](https://github.com/xnderLAN/CVE-2022-22965)  create time: 2022-04-05T15:12:15Z
 
 **no description** : [helGayhub233/CVE-2019-1653](https://github.com/helGayhub233/CVE-2019-1653)  create time: 2022-04-05T14:01:13Z
 
