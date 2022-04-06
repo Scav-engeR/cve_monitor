@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 15:16:19.710031  total: 8919 
+ > update time: 2022-04-06 16:16:40.447948  total: 8920 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2010-2078] Exploit for UnrealIrcd 3.2.8.1 version (custom modification from a perl script simplifying all posible for bash scripting)** : [0bfxgh0st-secondary/UnrealIrcd-3.2.8.1-cve-2010-2075-exploit](https://github.com/0bfxgh0st-secondary/UnrealIrcd-3.2.8.1-cve-2010-2075-exploit)  create time: 2022-04-06T15:52:57Z
 
 **no description** : [vuongnv3389-sec/cve-2021-41773](https://github.com/vuongnv3389-sec/cve-2021-41773)  create time: 2022-04-06T14:53:19Z
 
