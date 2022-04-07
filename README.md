@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-07 02:24:38.250279  total: 8927 
+ > update time: 2022-04-07 03:25:31.763794  total: 8928 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22965 pocsuite3 POC** : [wikiZ/springboot_CVE-2022-22965](https://github.com/wikiZ/springboot_CVE-2022-22965)  create time: 2022-04-07T02:30:26Z
 
 **Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)** : [alt3kx/CVE-2022-22965](https://github.com/alt3kx/CVE-2022-22965)  create time: 2022-04-07T00:08:16Z
 
