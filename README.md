@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 22:12:48.371605  total: 8924 
+ > update time: 2022-04-07 00:42:51.837511  total: 8925 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hoaan1995/CVE-2018-9995](https://github.com/hoaan1995/CVE-2018-9995)  create time: 2022-04-07T00:37:26Z
 
 **Unauthenticated RCE exploit for Fantec MWiD25-DS** : [code-byter/CVE-2022-28113](https://github.com/code-byter/CVE-2022-28113)  create time: 2022-03-26T21:39:00Z
 
