@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-08 13:30:45.335831  total: 8941 
+ > update time: 2022-04-08 16:19:14.804735  total: 8942 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write.** : [0vercl0k/CVE-2022-28281](https://github.com/0vercl0k/CVE-2022-28281)  create time: 2022-04-08T02:49:09Z
 
 **no description** : [CalumHutton/CVE-2022-22965-PoC_Payara](https://github.com/CalumHutton/CVE-2022-22965-PoC_Payara)  create time: 2022-04-07T15:26:15Z
 
