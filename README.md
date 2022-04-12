@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-11 20:18:32.013766  total: 8972 
+ > update time: 2022-04-12 00:38:56.118230  total: 8973 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [aniqfakhrul/CVE-2022-22954](https://github.com/aniqfakhrul/CVE-2022-22954)  create time: 2022-04-11T23:21:50Z
 
 **Exploiting CVE 2003-0264 with a buffer-overflow attack using Python3** : [vaknin/SLMail5.5](https://github.com/vaknin/SLMail5.5)  create time: 2022-04-11T19:13:14Z
 
