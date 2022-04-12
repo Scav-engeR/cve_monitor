@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 13:27:20.627956  total: 8990 
+ > update time: 2022-04-12 14:15:39.447984  total: 8991 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Chocapikk/CVE-2021-41773](https://github.com/Chocapikk/CVE-2021-41773)  create time: 2022-04-12T13:25:58Z
 
 **no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188)  create time: 2022-04-12T12:25:22Z
 
