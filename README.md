@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-14 03:36:10.974124  total: 9013 
+ > update time: 2022-04-14 04:13:42.940652  total: 9014 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The poc for CVE-2022-26809 RCE via RPC will be updated here.** : [sherlocksecurity/Microsoft-CVE-2022-26809](https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809)  create time: 2022-04-14T03:41:32Z
 
 **非常感谢yunxu1师傅提供的源码** : [VVeakee/CVE-2017-12149](https://github.com/VVeakee/CVE-2017-12149)  create time: 2022-04-14T03:30:54Z
 
