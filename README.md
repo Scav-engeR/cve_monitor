@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-15 06:16:13.957674  total: 9036 
+ > update time: 2022-04-15 09:12:46.007486  total: 9037 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [magicPiperS/WPS-CVE-2022-24934](https://github.com/magicPiperS/WPS-CVE-2022-24934)  create time: 2022-04-15T09:08:00Z
 
 **no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331)  create time: 2022-04-15T05:45:49Z
 
