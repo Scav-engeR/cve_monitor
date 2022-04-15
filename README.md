@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-15 12:18:10.945067  total: 9041 
+ > update time: 2022-04-15 16:14:51.334397  total: 9042 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947)** : [twseptian/cve-2022-22947](https://github.com/twseptian/cve-2022-22947)  create time: 2022-04-15T15:41:36Z
 
 **Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) 支持批量扫描漏洞及漏洞利用** : [jax7sec/S2-062](https://github.com/jax7sec/S2-062)  create time: 2022-04-15T11:30:26Z
 
