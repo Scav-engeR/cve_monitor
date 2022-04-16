@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 04:13:29.837149  total: 9047 
+ > update time: 2022-04-16 05:11:16.059510  total: 9048 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**vulnerability in version 20.21.7 of D2L Learning Management System (LMS)** : [Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)  create time: 2022-04-12T21:04:44Z
 
 **PoC for CVE-2021-31805 (Apache Struts2)** : [aeyesec/CVE-2021-31805](https://github.com/aeyesec/CVE-2021-31805)  create time: 2022-04-15T16:09:52Z
 
