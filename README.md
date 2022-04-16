@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 16:14:35.368240  total: 9052 
+ > update time: 2022-04-16 17:13:55.882269  total: 9053 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta** : [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)  create time: 2022-04-16T16:36:48Z
 
 **CVE-2021-44529 Ivanti EPM 云服务设备 (CSA) 中的代码注入漏洞允许未经身份验证的用户以有限的权限（nobody）执行任意代码。** : [jax7sec/CVE-2021-44529](https://github.com/jax7sec/CVE-2021-44529)  create time: 2022-04-16T15:19:39Z
 
