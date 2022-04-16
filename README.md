@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 18:13:53.132298  total: 9054 
+ > update time: 2022-04-16 20:11:49.773666  total: 9055 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Metabase NTLM Attack** : [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)  create time: 2022-04-16T19:41:15Z
 
 **Laravel RCE (CVE-2021-3129)** : [joshuavanderpoll/CVE-2021-3129](https://github.com/joshuavanderpoll/CVE-2021-3129)  create time: 2022-04-16T17:22:55Z
 
