@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-19 10:16:34.866507  total: 9091 
+ > update time: 2022-04-19 11:16:22.460847  total: 9094 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394)  create time: 2022-04-19T11:06:28Z
+
+**no description** : [pazhanivel07/openjpeg-2.3.0_CVE-2020-27824](https://github.com/pazhanivel07/openjpeg-2.3.0_CVE-2020-27824)  create time: 2022-04-19T10:53:52Z
+
+**no description** : [Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401)  create time: 2022-04-19T10:24:11Z
 
 **cve-2022-26809** : [XmasSnow1/cve-2022-26809](https://github.com/XmasSnow1/cve-2022-26809)  create time: 2022-04-19T10:01:54Z
 
