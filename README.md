@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-21 09:17:29.283556  total: 9134 
+ > update time: 2022-04-21 10:18:45.454476  total: 9136 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(<1.2).  PoC + PID Bruteforce in Python.** : [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)  create time: 2022-04-21T09:21:56Z
+
+**no description** : [nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0160](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0160)  create time: 2022-04-21T09:36:45Z
 
 **no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640)  create time: 2022-04-21T08:53:08Z
 
