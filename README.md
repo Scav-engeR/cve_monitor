@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-20 21:11:29.194010  total: 9118 
+ > update time: 2022-04-21 00:46:01.623676  total: 9119 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WSO2 RCE (CVE-2022-29464) exploit.** : [hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)  create time: 2022-04-20T21:23:52Z
 
 **CVE-2018-14714 PoC RCE** : [sunn1day/CVE-2018-14714-POC](https://github.com/sunn1day/CVE-2018-14714-POC)  create time: 2022-04-20T20:12:36Z
 
