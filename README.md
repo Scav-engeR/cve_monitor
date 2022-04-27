@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-26 18:19:07.224293  total: 9230 
+ > update time: 2022-04-27 05:25:59.348248  total: 9234 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pazhanivel07/Settings_10-r33_CVE-2020-0394_02](https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394_02)  create time: 2022-04-27T04:59:22Z
+
+**no description** : [pazhanivel07/Settings_10-r33_CVE-2020-0394](https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394)  create time: 2022-04-27T04:42:49Z
+
+**no description** : [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315)  create time: 2022-04-27T05:01:30Z
+
+**no description** : [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)  create time: 2022-04-27T04:40:51Z
 
 **Image Magick Exploit for CVE-2016–3714** : [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)  create time: 2022-04-26T17:12:36Z
 
