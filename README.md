@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-29 09:17:57.614714  total: 9267 
+ > update time: 2022-04-29 10:15:50.849852  total: 9268 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Enokiy/spring-RCE-CVE-2022-22965](https://github.com/Enokiy/spring-RCE-CVE-2022-22965)  create time: 2022-04-29T09:58:05Z
 
 **CVE-2022-29464 POC exploit** : [superzerosec/CVE-2022-29464](https://github.com/superzerosec/CVE-2022-29464)  create time: 2022-04-29T08:24:17Z
 
