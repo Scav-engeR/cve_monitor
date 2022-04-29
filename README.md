@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-29 08:20:59.084408  total: 9266 
+ > update time: 2022-04-29 09:17:57.614714  total: 9267 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-29464 POC exploit** : [superzerosec/CVE-2022-29464](https://github.com/superzerosec/CVE-2022-29464)  create time: 2022-04-29T08:24:17Z
 
 **no description** : [Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393](https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393)  create time: 2022-04-29T07:09:27Z
 
