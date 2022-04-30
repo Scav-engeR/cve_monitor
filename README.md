@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-30 04:17:58.061281  total: 9277 
+ > update time: 2022-04-30 06:14:29.696487  total: 9279 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511](https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511)  create time: 2022-04-30T05:54:11Z
+
+**CVE-2022-29464** : [UUFR/CVE-2022-29464](https://github.com/UUFR/CVE-2022-29464)  create time: 2022-04-30T04:30:51Z
 
 **no description** : [Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924](https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924)  create time: 2022-04-30T03:40:15Z
 
