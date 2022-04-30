@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-30 02:53:49.976881  total: 9275 
+ > update time: 2022-04-30 03:40:46.077365  total: 9276 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-28508** : [YavuzSahbaz/CVE-2022-28508](https://github.com/YavuzSahbaz/CVE-2022-28508)  create time: 2022-04-28T01:10:17Z
 
 **CVE-2021-44228 Log4j Summary** : [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)  create time: 2022-04-30T02:35:38Z
 
