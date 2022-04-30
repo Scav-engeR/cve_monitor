@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-29 18:17:29.939662  total: 9273 
+ > update time: 2022-04-30 02:53:49.976881  total: 9275 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 Log4j Summary** : [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)  create time: 2022-04-30T02:35:38Z
+
+**SQL injection for Poultry Farm Management System 1.0** : [IbrahimEkimIsik/CVE-2022-28099](https://github.com/IbrahimEkimIsik/CVE-2022-28099)  create time: 2022-04-30T02:01:09Z
 
 **This is an edited version of the CVE-2018-19422 exploit to fix an small but annoying issue I had.** : [Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-](https://github.com/Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-)  create time: 2022-04-29T17:23:23Z
 
