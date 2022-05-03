@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-02 20:16:23.968732  total: 9291 
+ > update time: 2022-05-03 03:00:21.053045  total: 9293 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-17553 PoC** : [MidwintersTomb/CVE-2018-17553](https://github.com/MidwintersTomb/CVE-2018-17553)  create time: 2022-05-03T02:43:59Z
+
+**PoC of CVE-2022-24707** : [Altelus1/CVE-2022-24707](https://github.com/Altelus1/CVE-2022-24707)  create time: 2022-05-03T01:11:56Z
 
 **DISCLAIMER: This is a re-upload of my very first spring project from 2019. It contains old dependencies with known CVEs, a lot of bad practices and many poor design decisions. It should not be taken as any kind of reference. It is only here to remind me where I started :)** : [mockxe/cardatabase](https://github.com/mockxe/cardatabase)  create time: 2022-04-25T16:22:14Z
 
