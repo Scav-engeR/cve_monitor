@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 15:12:52.760107  total: 9354 
+ > update time: 2022-05-09 16:21:03.293683  total: 9356 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-1388 POC exploit** : [superzerosec/CVE-2022-1388](https://github.com/superzerosec/CVE-2022-1388)  create time: 2022-05-09T15:42:55Z
+
+**CVE-2022-1388** : [saucer-man/CVE-2022-1388](https://github.com/saucer-man/CVE-2022-1388)  create time: 2022-05-09T15:24:27Z
 
 **Generate primary obfuscated or secondary obfuscated CVE-2021-44228 or CVE-2021-45046 payloads to evade WAF detection.** : [r3kind1e/Log4Shell-obfuscated-payloads-generator](https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator)  create time: 2022-05-09T15:02:29Z
 
