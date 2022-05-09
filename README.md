@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 14:12:06.344427  total: 9349 
+ > update time: 2022-05-09 15:12:52.760107  total: 9354 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Generate primary obfuscated or secondary obfuscated CVE-2021-44228 or CVE-2021-45046 payloads to evade WAF detection.** : [r3kind1e/Log4Shell-obfuscated-payloads-generator](https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator)  create time: 2022-05-09T15:02:29Z
+
+**CVE-2022-1388 F5 BIG-IP iControl REST身份验证绕过漏洞** : [savior-only/CVE-2022-1388](https://github.com/savior-only/CVE-2022-1388)  create time: 2022-05-09T14:37:04Z
+
+**no description** : [jcarabantes/CVE-2022-28590](https://github.com/jcarabantes/CVE-2022-28590)  create time: 2022-05-09T14:12:58Z
+
+**no description** : [cve-hunter/CVE-2022-1388-mass](https://github.com/cve-hunter/CVE-2022-1388-mass)  create time: 2022-05-09T14:09:49Z
+
+**多线程验证** : [Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388-](https://github.com/Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388-)  create time: 2022-05-09T14:09:34Z
 
 **F5 BIG-IP iControl REST身份验证绕过漏洞** : [Henry4E36/CVE-2022-1388](https://github.com/Henry4E36/CVE-2022-1388)  create time: 2022-05-09T14:02:34Z
 
