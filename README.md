@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 12:20:27.229804  total: 9344 
+ > update time: 2022-05-09 13:35:04.842493  total: 9346 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apisix系列漏洞：未授权漏洞（CVE-2021-45232）、默认秘钥（CVE-2020-13945）批量探测。** : [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)  create time: 2022-05-09T12:26:11Z
+
+**no description** : [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492)  create time: 2022-05-09T13:20:03Z
 
 **Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本** : [Pear1y/CVE-2022-26133](https://github.com/Pear1y/CVE-2022-26133)  create time: 2022-05-09T12:07:51Z
 
