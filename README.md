@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-10 10:14:02.871735  total: 9374 
+ > update time: 2022-05-10 15:18:37.403272  total: 9379 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[Reserved For CVE-2022-29554]** : [ComparedArray/printix-CVE-2022-29554](https://github.com/ComparedArray/printix-CVE-2022-29554)  create time: 2022-05-10T14:37:19Z
+
+**[Reserved for CVE-2022-29553]** : [ComparedArray/printix-CVE-2022-29553](https://github.com/ComparedArray/printix-CVE-2022-29553)  create time: 2022-05-10T14:36:36Z
+
+**[Reserved for CVE-2022-29552]** : [ComparedArray/printix-CVE-2022-29552](https://github.com/ComparedArray/printix-CVE-2022-29552)  create time: 2022-05-10T14:35:57Z
+
+**[Reserved For CVE-2022-29551]** : [ComparedArray/printix-CVE-2022-29551](https://github.com/ComparedArray/printix-CVE-2022-29551)  create time: 2022-05-10T14:35:15Z
+
+**CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento** : [TomArni680/CVE-2022-24086-rce](https://github.com/TomArni680/CVE-2022-24086-rce)  create time: 2022-05-10T14:32:06Z
 
 **CVE-2007-2447** : [Nosferatuvjr/Samba-Usermap-exploit](https://github.com/Nosferatuvjr/Samba-Usermap-exploit)  create time: 2022-05-10T09:37:07Z
 
