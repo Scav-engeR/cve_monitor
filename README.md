@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-11 07:18:37.878487  total: 9391 
+ > update time: 2022-05-11 08:21:58.954079  total: 9392 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25313](https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25313)  create time: 2022-05-11T07:40:30Z
 
 **WordPress的文件管理器插件（wp-file-manager）6.9版本之前存在安全漏洞，该漏洞允许远程攻击者上传和执行任意PHP代码。** : [adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload](https://github.com/adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload)  create time: 2022-05-11T07:10:15Z
 
