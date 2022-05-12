@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-11 22:12:19.053309  total: 9403 
+ > update time: 2022-05-12 02:51:18.886090  total: 9404 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services** : [r1skkam/TryHackMe-CVE-2022-26923](https://github.com/r1skkam/TryHackMe-CVE-2022-26923)  create time: 2022-05-12T02:31:50Z
 
 **no description** : [pauloink/CVE-2022-1388](https://github.com/pauloink/CVE-2022-1388)  create time: 2022-05-11T21:55:43Z
 
