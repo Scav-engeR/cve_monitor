@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-13 12:24:59.206313  total: 9423 
+ > update time: 2022-05-13 13:47:35.120217  total: 9424 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本** : [shuai06/CVE-2022-30525](https://github.com/shuai06/CVE-2022-30525)  create time: 2022-05-13T12:58:43Z
 
 **Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc** : [Phineas09/CVE-2021-44228](https://github.com/Phineas09/CVE-2021-44228)  create time: 2022-05-13T11:35:22Z
 
