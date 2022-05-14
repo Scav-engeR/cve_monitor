@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-14 05:14:14.924548  total: 9427 
+ > update time: 2022-05-14 06:33:10.118491  total: 9429 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [badboycxcc/XSS-CVE-2022-30489](https://github.com/badboycxcc/XSS-CVE-2022-30489)  create time: 2022-05-06T00:47:51Z
+
+**no description** : [badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383](https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383)  create time: 2021-12-22T10:06:59Z
 
 **A proof-of-concept font with a write-up attached.** : [Exploitables/CVE-2022-26927](https://github.com/Exploitables/CVE-2022-26927)  create time: 2022-05-14T04:12:23Z
 
