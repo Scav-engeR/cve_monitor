@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-15 04:18:56.135148  total: 9436 
+ > update time: 2022-05-15 07:12:57.936216  total: 9438 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Private keys generated with vulnerable keypair versions (CVE-2021-41117)** : [badkeys/keypairvuln](https://github.com/badkeys/keypairvuln)  create time: 2022-05-15T06:56:53Z
+
+**Zyxel Firewall Remote Command Injection Vulnerability (CVE-2022-30525) Batch Detection Script** : [M4fiaB0y/CVE-2022-30525](https://github.com/M4fiaB0y/CVE-2022-30525)  create time: 2022-05-15T06:20:06Z
 
 **An Improved Proof of Concept for CVE-2022-1388 w/ Interactive an Shell** : [PsychoSec2/CVE-2022-1388-POC](https://github.com/PsychoSec2/CVE-2022-1388-POC)  create time: 2022-05-15T03:58:21Z
 
