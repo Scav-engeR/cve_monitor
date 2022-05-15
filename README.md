@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-15 02:53:04.484408  total: 9435 
+ > update time: 2022-05-15 04:18:56.135148  total: 9436 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An Improved Proof of Concept for CVE-2022-1388 w/ Interactive an Shell** : [PsychoSec2/CVE-2022-1388-POC](https://github.com/PsychoSec2/CVE-2022-1388-POC)  create time: 2022-05-15T03:58:21Z
 
 **cve-2021-38314 - Unauthenticated Sensitive Information Disclosure** : [twseptian/cve-2021-38314](https://github.com/twseptian/cve-2021-38314)  create time: 2022-05-15T02:10:01Z
 
