@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-18 02:51:23.587095  total: 9465 
+ > update time: 2022-05-18 09:13:25.781674  total: 9466 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A POC for CVE-2021-3572 against old pips (9.x.x)** : [litios/cve_2021_3572-old-pip](https://github.com/litios/cve_2021_3572-old-pip)  create time: 2022-05-18T08:42:31Z
 
 **no description** : [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)  create time: 2022-05-18T02:02:51Z
 
