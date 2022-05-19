@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 16:33:47.178321  total: 9487 
+ > update time: 2022-05-19 17:42:19.278554  total: 9488 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**一个可单独、批量验证的脚本，也可以反弹shell** : [anansec/CVE-2022-22947_EXP](https://github.com/anansec/CVE-2022-22947_EXP)  create time: 2022-05-19T14:58:45Z
 
 **This repository is developed to analysis and understand DirtyPipe exploit CVE-2022-0847** : [VinuKalana/DirtyPipe-CVE-2022-0847](https://github.com/VinuKalana/DirtyPipe-CVE-2022-0847)  create time: 2022-05-17T04:23:34Z
 
