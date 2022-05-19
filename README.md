@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 11:11:31.400156  total: 9483 
+ > update time: 2022-05-19 12:19:43.609724  total: 9484 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30525 Zyxel防火墙命令注入漏洞 POC&EXP** : [160Team/CVE-2022-30525](https://github.com/160Team/CVE-2022-30525)  create time: 2022-05-19T12:09:42Z
 
 **PoC for Dirty COW (CVE-2016-5195)** : [1equeneRise/scumjr9](https://github.com/1equeneRise/scumjr9)  create time: 2022-05-19T10:53:43Z
 
