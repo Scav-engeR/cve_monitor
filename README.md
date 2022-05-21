@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-21 20:12:44.485552  total: 9514 
+ > update time: 2022-05-21 23:12:19.549120  total: 9515 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-22963](https://github.com/trhacknon/CVE-2022-22963)  create time: 2022-05-21T22:10:16Z
 
 **Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution** : [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)  create time: 2022-05-19T22:50:44Z
 
