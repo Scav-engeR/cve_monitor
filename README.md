@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-22 13:24:45.267155  total: 9519 
+ > update time: 2022-05-22 14:12:01.532165  total: 9524 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache CouchDB 3.2.1 - Remote Code Execution (RCE)** : [XmasSnowISBACK/CVE-2022-24706](https://github.com/XmasSnowISBACK/CVE-2022-24706)  create time: 2022-05-22T13:37:06Z
+
+**MSF screenshot module with privelage escalation/bypass on MacOS** : [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)  create time: 2022-05-22T13:31:52Z
+
+**CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust** : [XmasSnowISBACK/CVE-2022-1388](https://github.com/XmasSnowISBACK/CVE-2022-1388)  create time: 2022-05-22T13:27:33Z
+
+**cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall** : [XmasSnowISBACK/CVE-2022-1040](https://github.com/XmasSnowISBACK/CVE-2022-1040)  create time: 2022-05-22T13:23:20Z
+
+**PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"** : [XmasSnowISBACK/CVE-2022-21971](https://github.com/XmasSnowISBACK/CVE-2022-21971)  create time: 2022-05-22T13:20:39Z
 
 **Case for CVE-2021-43503** : [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)  create time: 2022-05-22T12:54:39Z
 
