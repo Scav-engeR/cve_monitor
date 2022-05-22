@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-22 09:12:06.892577  total: 9516 
+ > update time: 2022-05-22 12:18:18.538587  total: 9517 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Big-Ip auth bypass and rce** : [seciurdt/CVE-2022-1388-mass](https://github.com/seciurdt/CVE-2022-1388-mass)  create time: 2022-05-22T12:08:25Z
 
 **no description** : [pashayogi/CVE-2020-7961-Mass](https://github.com/pashayogi/CVE-2020-7961-Mass)  create time: 2022-05-22T08:40:53Z
 
