@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 13:36:30.092508  total: 9555 
+ > update time: 2022-05-25 17:21:21.834140  total: 9560 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**School Dormitory Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-30513](https://github.com/bigzooooz/CVE-2022-30513)  create time: 2022-05-25T16:46:09Z
+
+**School Dormitory Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-30514](https://github.com/bigzooooz/CVE-2022-30514)  create time: 2022-05-25T16:42:25Z
+
+**School Dormitory Management System 1.0 - Unauthenticated SQL Injection** : [bigzooooz/CVE-2022-30511](https://github.com/bigzooooz/CVE-2022-30511)  create time: 2022-05-25T16:35:06Z
+
+**School Dormitory Management System 1.0 - Unauthenticated SQL Injection** : [bigzooooz/CVE-2022-30510](https://github.com/bigzooooz/CVE-2022-30510)  create time: 2022-05-25T16:32:18Z
+
+**School Dormitory Management System 1.0 - Unauthenticated SQL Injection** : [bigzooooz/CVE-2022-30512](https://github.com/bigzooooz/CVE-2022-30512)  create time: 2022-05-25T16:23:53Z
 
 **C-DATA FD702XW-X-R430 v2.1.13_X001 was discovered to contain a command injection vulnerability via the va_cmd parameter in formlanipv6. This vulnerability allows attackers to execute arbitrary commands via a crafted HTTP request.** : [exploitwritter/CVE-2022-29337](https://github.com/exploitwritter/CVE-2022-29337)  create time: 2022-05-25T13:02:34Z
 
