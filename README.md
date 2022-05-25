@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 00:50:19.151113  total: 9543 
+ > update time: 2022-05-25 02:56:31.437984  total: 9546 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Csrf file upload insecure** : [trhacknon/CVE-2020-29597](https://github.com/trhacknon/CVE-2020-29597)  create time: 2022-05-25T01:10:01Z
+
+**no description** : [yuuki1967/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce)  create time: 2022-05-25T01:56:14Z
+
+**🍵 Gitea repository migration remote command execution exploit.** : [wuhan005/CVE-2022-30781](https://github.com/wuhan005/CVE-2022-30781)  create time: 2022-05-22T05:15:58Z
 
 **Triconsole 3.75 - Reflected XSS** : [trhacknon/CVE-2021-27330](https://github.com/trhacknon/CVE-2021-27330)  create time: 2022-05-25T00:09:20Z
 
