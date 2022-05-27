@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-27 16:16:23.091858  total: 9579 
+ > update time: 2022-05-27 21:12:21.412347  total: 9580 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**FreePascal implementation of CVE-2011-2523** : [MFernstrom/OffensivePascal-CVE-2011-2523](https://github.com/MFernstrom/OffensivePascal-CVE-2011-2523)  create time: 2022-05-27T20:47:01Z
 
 **no description** : [jftierno/CVE-2018-6574-2](https://github.com/jftierno/CVE-2018-6574-2)  create time: 2022-05-27T15:10:11Z
 
