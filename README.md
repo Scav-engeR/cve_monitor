@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-28 20:12:55.500529  total: 9591 
+ > update time: 2022-05-28 21:11:41.226850  total: 9592 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**vmware authentication bypass** : [Dghpi9/CVE-2022-22972](https://github.com/Dghpi9/CVE-2022-22972)  create time: 2022-05-28T20:56:09Z
 
 **FreePascal implementation of CVE-2007-2447** : [MFernstrom/OffensivePascal-CVE-2007-2447](https://github.com/MFernstrom/OffensivePascal-CVE-2007-2447)  create time: 2022-05-28T19:44:47Z
 
