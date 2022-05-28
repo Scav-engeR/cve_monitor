@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-28 06:15:02.013007  total: 9582 
+ > update time: 2022-05-28 08:15:59.766867  total: 9583 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [west9b/CVE-2022-30525](https://github.com/west9b/CVE-2022-30525)  create time: 2022-05-28T07:19:31Z
 
 **no description** : [kuznyJan1972/CVE-2022-23121-MASS-RCE](https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE)  create time: 2022-05-28T05:48:35Z
 
