@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-31 11:11:20.419718  total: 9612 
+ > update time: 2022-05-31 12:20:27.933425  total: 9614 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Exzh34/PentestLab-CVE-2018-6574-go-get-RCE](https://github.com/Exzh34/PentestLab-CVE-2018-6574-go-get-RCE)  create time: 2022-05-31T11:17:51Z
+
+**Microsoft Office Word Rce 复现(CVE-2022-30190)** : [bytecaps/CVE-2022-30190](https://github.com/bytecaps/CVE-2022-30190)  create time: 2022-05-31T12:15:18Z
 
 **no description** : [JCPpeiqi/-cve-2021-46381](https://github.com/JCPpeiqi/-cve-2021-46381)  create time: 2022-05-31T10:54:40Z
 
