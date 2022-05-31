@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-31 16:16:34.528090  total: 9618 
+ > update time: 2022-05-31 18:14:32.085730  total: 9619 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30190- A Zero-Click RCE Vulnerability In MSDT** : [kdk2933/msdt-follina-office](https://github.com/kdk2933/msdt-follina-office)  create time: 2022-05-31T17:54:20Z
 
 **Picking up processes that have triggered ASR related to CVE-2022-30190** : [DOV3Y/CVE-2022-30190-ASR-Senintel-Process-Pickup](https://github.com/DOV3Y/CVE-2022-30190-ASR-Senintel-Process-Pickup)  create time: 2022-05-31T16:11:14Z
 
