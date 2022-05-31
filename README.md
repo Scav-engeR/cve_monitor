@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-31 07:13:14.820128  total: 9611 
+ > update time: 2022-05-31 11:11:20.419718  total: 9612 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [JCPpeiqi/-cve-2021-46381](https://github.com/JCPpeiqi/-cve-2021-46381)  create time: 2022-05-31T10:54:40Z
 
 **CVE-2022-30190  Follina POC** : [onecloudemoji/CVE-2022-30190](https://github.com/onecloudemoji/CVE-2022-30190)  create time: 2022-05-31T06:45:25Z
 
