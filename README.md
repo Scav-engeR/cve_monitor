@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-01 19:10:48.646566  total: 9643 
+ > update time: 2022-06-01 20:13:31.449397  total: 9644 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960** : [Chocapikk/CVE-2022-22954](https://github.com/Chocapikk/CVE-2022-22954)  create time: 2022-06-01T19:33:32Z
 
 **An NSIS script that helps deploy and roll back the mitigation registry patch for CVE-2022-30190 as recommended by Microsoft** : [rouben/CVE-2022-30190-NSIS](https://github.com/rouben/CVE-2022-30190-NSIS)  create time: 2022-06-01T18:58:07Z
 
