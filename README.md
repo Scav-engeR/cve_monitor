@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-01 20:13:31.449397  total: 9644 
+ > update time: 2022-06-01 21:12:16.901807  total: 9647 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.** : [p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE)  create time: 2022-05-31T15:31:37Z
+
+**no description** : [trhacknon/CVE-2019-16759](https://github.com/trhacknon/CVE-2019-16759)  create time: 2022-06-01T20:28:43Z
+
+**Removes the ability for MSDT to run, in response to CVE-2022-30190 (Follina)** : [Cosmo121/Follina-Remediation](https://github.com/Cosmo121/Follina-Remediation)  create time: 2022-06-01T20:26:56Z
 
 **Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960** : [Chocapikk/CVE-2022-22954](https://github.com/Chocapikk/CVE-2022-22954)  create time: 2022-06-01T19:33:32Z
 
