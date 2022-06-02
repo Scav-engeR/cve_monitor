@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 15:12:59.978447  total: 9668 
+ > update time: 2022-06-02 16:16:36.522656  total: 9671 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30190 | MS-MSDT Follina One Click** : [AchocolatechipPancake/MS-MSDT-Office-RCE-Follina](https://github.com/AchocolatechipPancake/MS-MSDT-Office-RCE-Follina)  create time: 2022-06-02T16:09:02Z
+
+**Simple Follina poc exploit** : [WesyHub/CVE-2022-30190---Follina---Poc-Exploit](https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit)  create time: 2022-06-02T15:39:20Z
+
+**PDQ Package I created for CVE-2022-30190** : [castlesmadeofsand/ms-msdt-vulnerability-pdq-package](https://github.com/castlesmadeofsand/ms-msdt-vulnerability-pdq-package)  create time: 2022-06-02T15:33:15Z
 
 **CVE-2020-2551 Exploiter** : [0xAbbarhSF/CVE-Exploit](https://github.com/0xAbbarhSF/CVE-Exploit)  create time: 2022-06-02T14:20:43Z
 
