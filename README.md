@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 13:41:42.412330  total: 9666 
+ > update time: 2022-06-02 14:16:45.085170  total: 9667 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The CVE-2022-30190-follina Workarounds Patch** : [suegdu/CVE-2022-30190-Follina-Patch](https://github.com/suegdu/CVE-2022-30190-Follina-Patch)  create time: 2022-06-02T13:43:20Z
 
 **A proof of concept of an SEH overflow with arbitrary dll injection** : [lem0nSec/CVE-2010-5301](https://github.com/lem0nSec/CVE-2010-5301)  create time: 2022-06-01T22:12:07Z
 
