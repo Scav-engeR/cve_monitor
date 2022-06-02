@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 16:16:36.522656  total: 9671 
+ > update time: 2022-06-02 17:24:48.484961  total: 9673 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [arozx/CVE-2022-30910](https://github.com/arozx/CVE-2022-30910)  create time: 2022-06-02T16:14:13Z
+
+**no description** : [intentagmbh/cve_2022-30190](https://github.com/intentagmbh/cve_2022-30190)  create time: 2022-06-02T15:40:10Z
 
 **CVE-2022-30190 | MS-MSDT Follina One Click** : [AchocolatechipPancake/MS-MSDT-Office-RCE-Follina](https://github.com/AchocolatechipPancake/MS-MSDT-Office-RCE-Follina)  create time: 2022-06-02T16:09:02Z
 
