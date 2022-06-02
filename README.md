@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 10:14:40.566060  total: 9658 
+ > update time: 2022-06-02 12:20:00.430321  total: 9659 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An exploit for CVE-2018-6574** : [tjcim/cve-2018-6574](https://github.com/tjcim/cve-2018-6574)  create time: 2022-06-02T11:35:16Z
 
 **Mitigates the "Folina"-ZeroDay (CVE-2022-30190)** : [derco0n/mitigate-folina](https://github.com/derco0n/mitigate-folina)  create time: 2022-06-02T09:30:13Z
 
