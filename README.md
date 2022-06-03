@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 13:29:00.348780  total: 9695 
+ > update time: 2022-06-03 14:11:42.953137  total: 9698 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Generate SSRF payloads** : [MKSx/CVE-2021-22054](https://github.com/MKSx/CVE-2021-22054)  create time: 2022-06-03T14:06:02Z
+
+**no description** : [th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux](https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux)  create time: 2022-06-03T13:52:14Z
+
+**0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134).** : [cve-hunter/CVE-2022-26134](https://github.com/cve-hunter/CVE-2022-26134)  create time: 2022-06-03T13:42:32Z
 
 **MASS EXPLOITATION TOOL FOR CVE-2022-26134 an Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134)** : [DeavoDave/CVE-2022-26134-Mass-Rce](https://github.com/DeavoDave/CVE-2022-26134-Mass-Rce)  create time: 2022-06-03T13:06:59Z
 
