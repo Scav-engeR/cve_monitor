@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 11:10:37.975315  total: 9691 
+ > update time: 2022-06-03 13:29:00.348780  total: 9695 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**MASS EXPLOITATION TOOL FOR CVE-2022-26134 an Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134)** : [DeavoDave/CVE-2022-26134-Mass-Rce](https://github.com/DeavoDave/CVE-2022-26134-Mass-Rce)  create time: 2022-06-03T13:06:59Z
+
+**Spring exploit (LIMITED COPIES)** : [Expl0desploit/CVE-2022-22965](https://github.com/Expl0desploit/CVE-2022-22965)  create time: 2022-06-03T12:56:08Z
+
+**mass exploitation tool for atlassian 0day rce** : [TomArni680/CVE-2022-26134-RCE](https://github.com/TomArni680/CVE-2022-26134-RCE)  create time: 2022-06-03T12:54:08Z
+
+**no description** : [e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-06-03T12:53:14Z
 
 **CVE-2022-26134  vuln domains** : [s0rtega/CVE-2022-26134_vuln](https://github.com/s0rtega/CVE-2022-26134_vuln)  create time: 2022-06-03T10:38:51Z
 
