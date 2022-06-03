@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 06:15:12.058148  total: 9683 
+ > update time: 2022-06-03 07:11:53.197444  total: 9685 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Powershell script to mitigate cve-2022-30190** : [hilt86/cve-2022-30190-mitigate](https://github.com/hilt86/cve-2022-30190-mitigate)  create time: 2022-06-03T06:54:35Z
+
+**no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)  create time: 2022-06-03T06:24:34Z
 
 **Microsoft's recommended mitigation for CVE-2022-30190 using Powershell** : [hilt86/cve-2022-30190-mitigate](https://github.com/hilt86/cve-2022-30190-mitigate)  create time: 2022-06-03T06:03:15Z
 
