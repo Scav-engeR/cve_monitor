@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 10:12:42.253296  total: 9690 
+ > update time: 2022-06-03 11:10:37.975315  total: 9691 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134  vuln domains** : [s0rtega/CVE-2022-26134_vuln](https://github.com/s0rtega/CVE-2022-26134_vuln)  create time: 2022-06-03T10:38:51Z
 
 **0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134).** : [CyberDonkyx0/CVE-2022-26134](https://github.com/CyberDonkyx0/CVE-2022-26134)  create time: 2022-06-03T09:30:51Z
 
