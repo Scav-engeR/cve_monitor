@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-05 03:34:58.928499  total: 9727 
+ > update time: 2022-06-05 09:11:27.714595  total: 9728 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt](https://github.com/tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt)  create time: 2022-06-05T08:52:11Z
 
 **cve2022-26134** : [0x14dli/cve2022-26134exp](https://github.com/0x14dli/cve2022-26134exp)  create time: 2022-06-05T03:11:50Z
 
