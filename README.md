@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-05 18:14:11.133155  total: 9734 
+ > update time: 2022-06-05 19:10:40.410664  total: 9735 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0xAgun/CVE-2022-26134](https://github.com/0xAgun/CVE-2022-26134)  create time: 2022-06-05T18:23:20Z
 
 **no description** : [diurs/CVE-2020-24186-wordpress-wpDiscuz](https://github.com/diurs/CVE-2020-24186-wordpress-wpDiscuz)  create time: 2022-06-05T17:08:55Z
 
