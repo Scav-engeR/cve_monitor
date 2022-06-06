@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-06 02:54:45.656471  total: 9740 
+ > update time: 2022-06-06 05:14:42.743624  total: 9741 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TCP, when using a large Window Size, makes it easier for remote attackers to guess sequence numbers and cause a denial of service (connection loss) to persistent TCP connections by repeatedly injecting a TCP RST packet.** : [RakeshShinde97/CVE-2004-0230-TCP-Sequence-Number-Approximation-Based-Denial-of-Service](https://github.com/RakeshShinde97/CVE-2004-0230-TCP-Sequence-Number-Approximation-Based-Denial-of-Service)  create time: 2022-06-06T04:30:03Z
 
 **Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)** : [h3v0x/CVE-2022-26134](https://github.com/h3v0x/CVE-2022-26134)  create time: 2022-06-06T02:43:06Z
 
