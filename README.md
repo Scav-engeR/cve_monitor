@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 10:12:38.014089  total: 9756 
+ > update time: 2022-06-07 11:11:44.630048  total: 9759 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache 2.4.49 RCE CVE-2021-41773 in Ruby** : [hab1b0x/CVE-2021-41773](https://github.com/hab1b0x/CVE-2021-41773)  create time: 2022-06-07T10:38:23Z
+
+**CVE-2022-26134 Confluence OGNL Injection POC** : [alcaparra/CVE-2022-26134](https://github.com/alcaparra/CVE-2022-26134)  create time: 2022-06-07T10:36:11Z
+
+**CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation** : [tr3ee/CVE-2022-23222](https://github.com/tr3ee/CVE-2022-23222)  create time: 2022-06-07T03:20:23Z
 
 **no description** : [joshuavanderpoll/CVE-2022-30190](https://github.com/joshuavanderpoll/CVE-2022-30190)  create time: 2022-06-07T10:07:52Z
 
