@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 02:51:52.869229  total: 9751 
+ > update time: 2022-06-07 07:17:33.920562  total: 9752 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134）** : [li8u99/CVE-2022-26134](https://github.com/li8u99/CVE-2022-26134)  create time: 2022-06-07T06:57:02Z
 
 **C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode in…** : [1342486672/Flangvik](https://github.com/1342486672/Flangvik)  create time: 2022-06-07T02:09:10Z
 
