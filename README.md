@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 18:13:48.439462  total: 9766 
+ > update time: 2022-06-07 20:13:37.658720  total: 9767 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134](https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134)  create time: 2022-06-07T19:59:55Z
 
 **CVE-2020-0796 explanation and researching vulnerability for term porject CENG325** : [arzuozkan/CVE-2020-0796](https://github.com/arzuozkan/CVE-2020-0796)  create time: 2022-06-07T17:16:16Z
 
