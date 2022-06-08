@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 17:15:23.531549  total: 9783 
+ > update time: 2022-06-08 18:18:07.133646  total: 9784 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**writeup and poc for cve-2022-26809** : [scoobydoobi/CVE-2022-26809-RCE-POC](https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC)  create time: 2022-06-08T17:22:21Z
 
 **no description** : [emrekara369/cve-2019-12461](https://github.com/emrekara369/cve-2019-12461)  create time: 2022-06-08T16:20:44Z
 
