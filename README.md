@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 00:45:22.200862  total: 9770 
+ > update time: 2022-06-08 02:56:30.751987  total: 9772 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit vulnerabilities and vulnerability prevention implementation** : [TrG-1999/DetectPacket-CVE-2017-8464](https://github.com/TrG-1999/DetectPacket-CVE-2017-8464)  create time: 2022-06-08T01:39:48Z
+
+**Proof of concept of the Log4Shell vulnerability (CVE-2021-44228)** : [jaehnri/CVE-2021-44228](https://github.com/jaehnri/CVE-2021-44228)  create time: 2022-06-08T01:09:28Z
 
 **This project files demostrate a proof-of-concept of log4j vulnerability (CVE-2021-44228) on AWS using Terraform Infrastructure-as-a-code means.** : [moshuum/tf-log4j-aws-poc](https://github.com/moshuum/tf-log4j-aws-poc)  create time: 2022-06-07T13:30:37Z
 
