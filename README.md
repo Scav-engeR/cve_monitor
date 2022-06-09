@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-09 10:14:43.765534  total: 9788 
+ > update time: 2022-06-09 13:34:58.450147  total: 9789 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Information and Scripts to remediate and restore functionality for CVE 2022 30190** : [ToddMaxey/CVE-2022-30190](https://github.com/ToddMaxey/CVE-2022-30190)  create time: 2022-06-09T13:19:23Z
 
 **Repository containing the compromised certificate seen in recent CVE-2022-30190 (Follina) attacks.** : [b401/Clickstudio-compromised-certificate](https://github.com/b401/Clickstudio-compromised-certificate)  create time: 2022-06-09T10:03:06Z
 
