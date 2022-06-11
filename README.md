@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-11 13:20:17.563143  total: 9815 
+ > update time: 2022-06-11 14:11:25.025012  total: 9816 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**writeup and poc for [CVE-2022-26809]** : [scoobydoobi/CVE-2022-26809-RCE](https://github.com/scoobydoobi/CVE-2022-26809-RCE)  create time: 2022-06-11T13:22:45Z
 
 **CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina** : [safakTamsesCS/PicusSecurity4.Week.Repo](https://github.com/safakTamsesCS/PicusSecurity4.Week.Repo)  create time: 2022-06-10T12:09:37Z
 
