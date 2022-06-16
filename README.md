@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-16 20:12:05.301174  total: 9887 
+ > update time: 2022-06-16 21:11:07.367268  total: 9888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30136 # details:** : [oturu/CVE-2022-30136-RCE](https://github.com/oturu/CVE-2022-30136-RCE)  create time: 2022-06-16T21:05:22Z
 
 **no description** : [34dsfsdf4/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/34dsfsdf4/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-06-16T19:52:25Z
 
