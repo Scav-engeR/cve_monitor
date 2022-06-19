@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-19 05:14:27.208445  total: 9903 
+ > update time: 2022-06-19 09:11:56.349942  total: 9904 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-40903** : [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)  create time: 2022-06-19T09:01:24Z
 
 **no description** : [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)  create time: 2022-06-19T04:24:54Z
 
