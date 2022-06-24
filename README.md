@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-24 13:35:23.277799  total: 9938 
+ > update time: 2022-06-24 18:15:45.024139  total: 9939 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-26855** : [TheDudeD6/ExchangeSmash](https://github.com/TheDudeD6/ExchangeSmash)  create time: 2022-06-24T17:42:28Z
 
 **no description** : [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)  create time: 2022-06-24T13:25:25Z
 
