@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 06:15:29.373369  total: 9977 
+ > update time: 2022-06-30 07:09:29.980377  total: 9978 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**GitLab-Graphql-CVE-2020-26413 POC** : [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)  create time: 2022-06-30T06:29:28Z
 
 **0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC** : [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)  create time: 2022-06-30T04:39:58Z
 
