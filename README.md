@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-09 16:13:53.777984  total: 10057 
+ > update time: 2022-07-09 20:12:10.876381  total: 10058 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-23222, managed with Rust.** : [RafaelOrtizRC/CVE-2022-23222](https://github.com/RafaelOrtizRC/CVE-2022-23222)  create time: 2022-07-09T19:28:46Z
 
 **Instagram Bypass the Name Oneline Limit and 14 Days waiting time!** : [deidal0s/instagram_CVE_2019](https://github.com/deidal0s/instagram_CVE_2019)  create time: 2022-07-09T15:22:36Z
 
