@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-14 03:19:37.824916  total: 10086 
+ > update time: 2022-07-15 00:57:16.338336  total: 10087 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Additional exploits for XSS in Cisco ASA devices discovered by PTSwarm** : [catatonicprime/CVE-2020-3580](https://github.com/catatonicprime/CVE-2020-3580)  create time: 2022-07-15T00:11:29Z
 
 **CVE-2021-46422_PoC** : [twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)  create time: 2022-07-14T01:10:18Z
 
