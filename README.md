@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 08:14:52.227067  total: 10120 
+ > update time: 2022-07-19 13:37:23.393224  total: 10121 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE–2019–8985 Netis WF2411 RCE** : [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)  create time: 2022-07-19T13:30:07Z
 
 **A report about CVE-2021-44228** : [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)  create time: 2022-07-19T08:03:05Z
 
