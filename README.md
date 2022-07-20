@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-20 10:13:16.086591  total: 10132 
+ > update time: 2022-07-20 11:10:53.549447  total: 10133 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**vuln ejs 3.1.6 docker** : [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)  create time: 2022-07-20T10:10:01Z
 
 **CVE-2019-17621 DLink_RCE** : [Ler2sq/CVE-2019-17621](https://github.com/Ler2sq/CVE-2019-17621)  create time: 2022-07-20T09:39:36Z
 
