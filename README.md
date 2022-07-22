@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-22 03:17:24.233782  total: 10147 
+ > update time: 2022-07-22 06:15:19.480616  total: 10149 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-23131漏洞批量检测与利用脚本** : [1324132494/CVE-2022-23131poc-exp-zabbix-](https://github.com/1324132494/CVE-2022-23131poc-exp-zabbix-)  create time: 2022-07-22T05:48:23Z
+
+**no description** : [1mxml/CVE-2022-26138](https://github.com/1mxml/CVE-2022-26138)  create time: 2022-07-22T05:43:14Z
 
 **no description** : [J0hnbX/CVE-2022-30333](https://github.com/J0hnbX/CVE-2022-30333)  create time: 2022-07-22T01:14:29Z
 
