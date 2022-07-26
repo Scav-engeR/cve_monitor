@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-26 10:13:13.413522  total: 10177 
+ > update time: 2022-07-26 12:19:35.311669  total: 10178 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)  create time: 2022-07-26T11:33:10Z
 
 **no description** : [yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL](https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL)  create time: 2022-07-26T09:45:46Z
 
