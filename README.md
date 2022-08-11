@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-11 15:13:16.203734  total: 10262 
+ > update time: 2022-08-11 23:12:39.385189  total: 10263 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**GOG Galaxy LPE Exploit** : [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)  create time: 2022-08-11T19:33:02Z
 
 **no description** : [Silencecyber/cve-2021-4034](https://github.com/Silencecyber/cve-2021-4034)  create time: 2022-08-11T14:10:39Z
 
