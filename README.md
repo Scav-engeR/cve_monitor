@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-13 23:11:46.961333  total: 10269 
+ > update time: 2022-08-14 13:26:31.062145  total: 10270 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Trying to reproduce CVE-2021-43908** : [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt)  create time: 2022-08-12T05:18:43Z
 
 **CVE-2022-33891 Exploit For Apache Spark** : [DrLinuxOfficial/CVE-2022-33891](https://github.com/DrLinuxOfficial/CVE-2022-33891)  create time: 2022-08-13T23:02:56Z
 
