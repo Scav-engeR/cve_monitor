@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-15 08:15:32.249895  total: 10282 
+ > update time: 2022-08-15 10:14:00.393791  total: 10283 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**https://nvd.nist.gov/vuln/detail/CVE-2022-34169** : [bor8/CVE-2022-34169](https://github.com/bor8/CVE-2022-34169)  create time: 2022-08-15T09:43:08Z
 
 **CVE-2017-0199复现** : [Sunqiz/CVE-2017-0199-reprofuction](https://github.com/Sunqiz/CVE-2017-0199-reprofuction)  create time: 2022-08-15T07:15:55Z
 
