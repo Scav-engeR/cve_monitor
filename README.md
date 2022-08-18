@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-18 14:15:04.073608  total: 10305 
+ > update time: 2022-08-18 20:14:06.865699  total: 10306 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)  create time: 2022-08-18T19:58:53Z
 
 **Example payload for CVE-2022-21894** : [sm0ke1337/CVE-2022-21894-Payload](https://github.com/sm0ke1337/CVE-2022-21894-Payload)  create time: 2022-08-18T13:37:56Z
 
