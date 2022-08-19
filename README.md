@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-19 05:25:01.526127  total: 10310 
+ > update time: 2022-08-19 08:15:40.395897  total: 10311 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Polkit vulnerability (CVE-2021-4034) exploited  in a BBVA production server** : [rick7645/Pokit-CVE-2021-4034-exploit-BBVA-](https://github.com/rick7645/Pokit-CVE-2021-4034-exploit-BBVA-)  create time: 2022-08-19T08:10:47Z
 
 **no description** : [miko550/CVE-2022-27925](https://github.com/miko550/CVE-2022-27925)  create time: 2022-08-19T04:46:08Z
 
