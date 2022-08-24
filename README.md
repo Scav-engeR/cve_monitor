@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 03:32:47.717620  total: 10337 
+ > update time: 2022-08-24 08:15:36.887714  total: 10338 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Internal Hostname Disclosure Vulnerability** : [Vulnmachines/Zoho_CVE-2022-23779](https://github.com/Vulnmachines/Zoho_CVE-2022-23779)  create time: 2022-08-24T07:58:45Z
 
 **no description** : [hanch7274/CVE-2021-36749](https://github.com/hanch7274/CVE-2021-36749)  create time: 2022-08-24T02:01:17Z
 
