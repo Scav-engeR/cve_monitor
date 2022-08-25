@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 15:12:49.370375  total: 10343 
+ > update time: 2022-08-25 01:00:18.229520  total: 10344 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)  create time: 2022-08-24T06:00:47Z
 
 **no description** : [nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-](https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-)  create time: 2022-08-24T14:55:11Z
 
