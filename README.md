@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-29 15:13:28.115879  total: 10379 
+ > update time: 2022-08-29 16:15:18.960698  total: 10380 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)  create time: 2022-08-29T15:21:11Z
 
 **Adobe Acrobat Reader UAF vulnerability Exploit code** : [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)  create time: 2022-08-29T14:33:40Z
 
