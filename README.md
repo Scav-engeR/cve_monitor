@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-30 08:16:19.028289  total: 10384 
+ > update time: 2022-08-30 10:13:33.558653  total: 10387 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2010-2553-reproduction** : [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)  create time: 2022-08-30T09:46:14Z
+
+**no description** : [Deepak983/CVE-2020-19587](https://github.com/Deepak983/CVE-2020-19587)  create time: 2022-08-30T10:08:07Z
+
+**Incorrect Access Control issue in Yellowfin Business Intelligence 7.3 allows remote attackers to escalate privilege via MIAdminStyles.i4 Admin UI** : [Deepak983/CVE-2020-19586](https://github.com/Deepak983/CVE-2020-19586)  create time: 2022-08-30T10:00:01Z
 
 **This repository contains a test case for CVE-2020-0796** : [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)  create time: 2020-03-12T09:35:57Z
 
