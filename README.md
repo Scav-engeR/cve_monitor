@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 22:12:46.451141  total: 10401 
+ > update time: 2022-09-01 23:13:54.805619  total: 10402 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**pwnkit auto exploiter written in Go, no network connectivity required.** : [1337Rin/CVE-2021-4034](https://github.com/1337Rin/CVE-2021-4034)  create time: 2022-09-01T22:48:09Z
 
 **PoC for CVE-2022-25260: semi-blind SSRF in JetBrains Hub** : [yuriisanin/CVE-2022-25260](https://github.com/yuriisanin/CVE-2022-25260)  create time: 2022-09-01T21:08:19Z
 
