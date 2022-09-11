@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-11 17:19:36.228497  total: 10453 
+ > update time: 2022-09-11 20:13:42.440039  total: 10454 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0847(Dirty Pipe) vulnerability exploits.** : [Gustavo-Nogueira/Dirty-Pipe-Exploits](https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits)  create time: 2022-09-11T19:50:53Z
 
 **DrayTek Vigor Exploit** : [Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)  create time: 2022-09-11T16:24:25Z
 
