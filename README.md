@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 13:46:58.743658  total: 10476 
+ > update time: 2022-09-14 14:22:51.683445  total: 10477 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HIP2022 presentation materials.** : [EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)  create time: 2022-09-14T13:59:21Z
 
 **no description** : [ProxyStaffy/Airties-CVE-2022-38789](https://github.com/ProxyStaffy/Airties-CVE-2022-38789)  create time: 2022-09-14T12:43:05Z
 
