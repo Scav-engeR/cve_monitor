@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-20 11:12:12.398152  total: 10546 
+ > update time: 2022-09-20 13:47:29.360403  total: 10547 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cisco Small Business RCE [included mass exploiter and scanner]** : [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)  create time: 2022-09-20T13:26:04Z
 
 **Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1** : [N0pch/CVE-2022-36804-mass-rce](https://github.com/N0pch/CVE-2022-36804-mass-rce)  create time: 2022-09-20T10:41:47Z
 
