@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-26 06:46:52.716847  total: 10602 
+ > update time: 2022-09-26 09:19:40.026707  total: 10603 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A loader for bitbucket 2022 rce (cve-2022-36804)** : [Inplex-sys/CVE-2022-36804](https://github.com/Inplex-sys/CVE-2022-36804)  create time: 2022-09-26T08:35:31Z
 
 **cobaltstrike4.5版本破解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等** : [lovechoudoufu/about_cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/about_cobaltstrike4.5_cdf)  create time: 2022-09-26T05:49:58Z
 
