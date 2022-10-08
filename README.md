@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 09:16:27.487085  total: 10718 
+ > update time: 2022-10-08 10:14:43.179946  total: 10719 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Samples of the "qs" vulnerability CVE-2022-24999** : [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)  create time: 2022-04-18T06:46:49Z
 
 **no description** : [htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)  create time: 2022-10-08T08:38:00Z
 
