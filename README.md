@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 16:17:37.254169  total: 10795 
+ > update time: 2022-10-15 17:24:06.734861  total: 10798 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)  create time: 2022-10-15T17:06:00Z
+
+**Exploit for CVE-2022-40684 vulnerability** : [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)  create time: 2022-10-15T17:02:49Z
+
+**Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ]** : [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)  create time: 2022-10-15T16:51:25Z
 
 **no description** : [yigexioabai/CVE-2021-46422_RCE](https://github.com/yigexioabai/CVE-2021-46422_RCE)  create time: 2022-10-15T15:13:48Z
 
