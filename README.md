@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 10:18:08.808465  total: 10843 
+ > update time: 2022-10-18 11:14:43.106571  total: 10844 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ClusterImagePolicy demo for cve-2022-42889 text4shell** : [chainguard-dev/text4shell-policy](https://github.com/chainguard-dev/text4shell-policy)  create time: 2022-10-17T21:49:13Z
 
 **Dockerized POC for CVE-2022-42889 Text4Shell** : [karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)  create time: 2022-10-18T09:58:00Z
 
