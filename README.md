@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-17 22:14:27.531764  total: 10839 
+ > update time: 2022-10-18 07:36:06.048173  total: 10840 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit of RealVNC VNC Server** : [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)  create time: 2022-10-18T06:31:21Z
 
 **POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability)** : [sammwyy/CVE-2022-33980-POC](https://github.com/sammwyy/CVE-2022-33980-POC)  create time: 2022-10-17T21:39:03Z
 
