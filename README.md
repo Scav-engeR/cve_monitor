@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 12:27:14.382340  total: 10854 
+ > update time: 2022-10-19 13:52:05.927235  total: 10856 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)  create time: 2022-10-19T13:48:49Z
+
+**no description** : [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)  create time: 2022-10-19T12:46:48Z
 
 **Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.** : [kljunowsky/CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell)  create time: 2022-10-19T11:49:08Z
 
