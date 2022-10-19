@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 04:17:28.973952  total: 10850 
+ > update time: 2022-10-19 07:40:13.191735  total: 10851 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [eunomie/cve-2022-42889-check](https://github.com/eunomie/cve-2022-42889-check)  create time: 2022-10-19T06:54:57Z
 
 **no description** : [iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)  create time: 2022-10-19T02:13:25Z
 
