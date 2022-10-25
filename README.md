@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 07:39:33.809668  total: 10917 
+ > update time: 2022-10-25 12:26:32.399055  total: 10918 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE** : [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)  create time: 2022-10-25T12:15:31Z
 
 **no description** : [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)  create time: 2022-10-25T06:47:20Z
 
