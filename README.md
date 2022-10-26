@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-26 03:13:25.487216  total: 10927 
+ > update time: 2022-10-26 07:15:48.684014  total: 10928 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for a vulnerability that I found in Apple Shortcuts. Fixed in iOS 16.1 and macOS 13 Ventura.** : [iCMDgithub/CVE-2022-32938](https://github.com/iCMDgithub/CVE-2022-32938)  create time: 2022-10-26T06:34:39Z
 
 **no description** : [qingsiweisan/CVE-2022-40684](https://github.com/qingsiweisan/CVE-2022-40684)  create time: 2022-10-26T01:48:14Z
 
