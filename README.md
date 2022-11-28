@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-28 04:14:36.416969  total: 11143 
+ > update time: 2022-11-28 15:12:26.011446  total: 11145 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22965 proof of concept** : [clemoregan/SSE4-CVE-2022-22965](https://github.com/clemoregan/SSE4-CVE-2022-22965)  create time: 2022-11-28T14:34:51Z
+
+**no description** : [ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)  create time: 2022-11-28T14:28:07Z
 
 **CVE-2021-33558 POC** : [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)  create time: 2022-11-28T03:50:10Z
 
