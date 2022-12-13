@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-13 17:10:23.338229  total: 11238 
+ > update time: 2022-12-13 19:09:58.380189  total: 11239 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Improper access control in SAP NetWeaver Process Integration** : [redrays-io/CVE-2022-41272](https://github.com/redrays-io/CVE-2022-41272)  create time: 2022-12-13T18:32:03Z
 
 **no description** : [plharraud/cve-2022-3786](https://github.com/plharraud/cve-2022-3786)  create time: 2022-12-13T16:43:01Z
 
