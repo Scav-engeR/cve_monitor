@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-16 13:16:41.639201  total: 35779 
+ > update time: 2025-06-16 16:03:59.902817  total: 35780 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Pbat6/CVE-2020-35730](https://github.com/Pbat6/CVE-2020-35730)  create time: 2025-06-16T15:35:21Z
 
 **no description** : [tuaandatt/CVE-2023-30333---Zimbra-UnRAR](https://github.com/tuaandatt/CVE-2023-30333---Zimbra-UnRAR)  create time: 2025-06-16T12:46:03Z
 
