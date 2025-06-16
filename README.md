@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-16 22:05:52.872167  total: 35783 
+ > update time: 2025-06-16 23:06:10.897557  total: 35784 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated SQL Injection exploit for WordPress Likes and Dislikes Plugin ≤ 1.0.0** : [RootHarpy/CVE-2025-5287](https://github.com/RootHarpy/CVE-2025-5287)  create time: 2025-06-16T22:25:25Z
 
 **Explicação+ WriteUp do Lab Tryhackme** : [5kr1pt/WriteUp-Roundcube_CVE-2025-49113](https://github.com/5kr1pt/WriteUp-Roundcube_CVE-2025-49113)  create time: 2025-06-16T21:14:44Z
 
