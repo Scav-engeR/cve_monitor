@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-16 00:13:47.293141  total: 35774 
+ > update time: 2025-06-16 08:08:10.113790  total: 35776 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125](https://github.com/Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125)  create time: 2025-06-16T07:44:34Z
+
+**The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents.** : [Yuri08loveElaina/CVE_2025_6169](https://github.com/Yuri08loveElaina/CVE_2025_6169)  create time: 2025-06-16T07:07:12Z
 
 **This project is a research-oriented and educational simulation  designed to demonstrate the concept of a sandbox escape vulnerability  within Google Chrome (version 134.0.6998.177), leveraging improper handle , validation via Mojo IPC.** : [byteReaper77/CVE-2025-2783-SandboxEscape](https://github.com/byteReaper77/CVE-2025-2783-SandboxEscape)  create time: 2025-06-15T23:30:35Z
 
