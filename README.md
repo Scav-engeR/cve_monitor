@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-17 10:06:40.796271  total: 35788 
+ > update time: 2025-06-17 11:06:27.488231  total: 35790 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A hands-on vulnerability assessment and exploitation of a Windows 7 VM using the EternalBlue (CVE-2017-0143) exploit. Includes scanning, exploitation with Metasploit, post-exploitation, and remediation steps in a controlled lab environment.** : [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)  create time: 2025-06-17T10:14:46Z
+
+**no description** : [EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin)  create time: 2025-06-17T10:19:58Z
 
 **CVE-2025-3248 Langflow RCE Exploit** : [ynsmroztas/CVE-2025-3248-Langflow-RCE](https://github.com/ynsmroztas/CVE-2025-3248-Langflow-RCE)  create time: 2025-06-17T09:06:20Z
 
