@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-16 23:06:10.897557  total: 35784 
+ > update time: 2025-06-17 01:34:32.598766  total: 35787 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tuaandatt/CVE-2022-30333---UnRAR](https://github.com/tuaandatt/CVE-2022-30333---UnRAR)  create time: 2025-06-17T01:29:57Z
+
+**no description** : [zetzns/cve-2024-23113](https://github.com/zetzns/cve-2024-23113)  create time: 2025-06-16T23:36:40Z
+
+**C PoC language for emulating path traversal vulnerability (CVE-2025-5964) in M-Files25.6.14925.0** : [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)  create time: 2025-06-17T01:28:38Z
 
 **Unauthenticated SQL Injection exploit for WordPress Likes and Dislikes Plugin ≤ 1.0.0** : [RootHarpy/CVE-2025-5287](https://github.com/RootHarpy/CVE-2025-5287)  create time: 2025-06-16T22:25:25Z
 
