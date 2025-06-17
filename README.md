@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-17 13:16:59.154210  total: 35794 
+ > update time: 2025-06-17 15:07:09.951608  total: 35795 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Modbus Packet Injection on Advantech WISE 4060LAN / IoT Gateway for door control** : [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)  create time: 2025-06-17T14:06:57Z
 
 **CVE-2025-49113** : [B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)  create time: 2025-06-17T13:01:16Z
 
