@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-17 11:06:27.488231  total: 35790 
+ > update time: 2025-06-17 12:08:01.866748  total: 35793 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [allinsthon/CVE-2025-43200](https://github.com/allinsthon/CVE-2025-43200)  create time: 2025-06-17T12:00:36Z
+
+**Escaner para encontrar vulnerabilidad CVE-2025-4123 grafana** : [DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)  create time: 2025-06-17T11:35:48Z
+
+**no description** : [sangnguyenthien/CVE-2025-2135](https://github.com/sangnguyenthien/CVE-2025-2135)  create time: 2025-06-17T09:41:51Z
 
 **A hands-on vulnerability assessment and exploitation of a Windows 7 VM using the EternalBlue (CVE-2017-0143) exploit. Includes scanning, exploitation with Metasploit, post-exploitation, and remediation steps in a controlled lab environment.** : [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)  create time: 2025-06-17T10:14:46Z
 
