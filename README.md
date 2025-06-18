@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 20:06:34.303776  total: 35815 
+ > update time: 2025-06-18 21:07:00.525656  total: 35816 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [rasinfosec/CVE-2018-25031](https://github.com/rasinfosec/CVE-2018-25031)  create time: 2025-06-18T20:05:28Z
 
 **CVE-2023-6401 is a DLL hijacking vulnerability that allows attackers to execute arbitrary code by placing a malicious `dbghelp.dll` file in the application directory. This project demonstrates the vulnerability and provides a reproducible PoC.** : [mekitoci/CVE-2023-6401](https://github.com/mekitoci/CVE-2023-6401)  create time: 2025-06-18T19:59:31Z
 
