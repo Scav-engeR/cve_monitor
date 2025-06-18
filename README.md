@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 04:11:47.909891  total: 35801 
+ > update time: 2025-06-18 07:06:45.882004  total: 35802 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows Remote Desktop Services Vulnerability Allows Remote Code Execution** : [Sincan2/RCE-CVE-2025-32710](https://github.com/Sincan2/RCE-CVE-2025-32710)  create time: 2025-06-18T06:31:36Z
 
 **no description** : [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)  create time: 2025-06-18T03:42:57Z
 
