@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 08:07:21.207795  total: 35803 
+ > update time: 2025-06-18 11:07:02.356827  total: 35805 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2025-33053 Checker and PoC** : [TheTorjanCaptain/CVE-2025-33053-Checker-PoC](https://github.com/TheTorjanCaptain/CVE-2025-33053-Checker-PoC)  create time: 2025-06-18T10:08:45Z
+
+**Palo Alto - Global Protect - Reflected XSS** : [wiseep/CVE-2025-0133](https://github.com/wiseep/CVE-2025-0133)  create time: 2025-06-18T10:06:17Z
 
 **ecurity patch for CVE-2023-26136 in tough-cookie 2.5.0 - Prototype pollution vulnerability fix with backward compatibility** : [uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix](https://github.com/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix)  create time: 2025-06-18T07:27:26Z
 
