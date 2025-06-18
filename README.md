@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-17 23:06:41.819027  total: 35800 
+ > update time: 2025-06-18 04:11:47.909891  total: 35801 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)  create time: 2025-06-18T03:42:57Z
 
 **Ultimate Addons for Contact Form 7 <= 3.5.12 - Authenticated (Administrator+) Arbitrary File Upload via 'save_options'** : [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)  create time: 2025-06-17T22:34:49Z
 
