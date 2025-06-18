@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 16:07:11.842242  total: 35807 
+ > update time: 2025-06-18 17:08:16.017206  total: 35808 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2024-36401 图形化利用工具，支持各个JDK版本利用以及回显、内存马实现** : [bmth666/GeoServer-Tools-CVE-2024-36401](https://github.com/bmth666/GeoServer-Tools-CVE-2024-36401)  create time: 2025-04-11T04:36:34Z
 
 **no description** : [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)  create time: 2025-06-18T15:18:33Z
 
