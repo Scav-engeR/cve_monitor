@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 07:06:45.882004  total: 35802 
+ > update time: 2025-06-18 08:07:21.207795  total: 35803 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ecurity patch for CVE-2023-26136 in tough-cookie 2.5.0 - Prototype pollution vulnerability fix with backward compatibility** : [uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix](https://github.com/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix)  create time: 2025-06-18T07:27:26Z
 
 **Windows Remote Desktop Services Vulnerability Allows Remote Code Execution** : [Sincan2/RCE-CVE-2025-32710](https://github.com/Sincan2/RCE-CVE-2025-32710)  create time: 2025-06-18T06:31:36Z
 
