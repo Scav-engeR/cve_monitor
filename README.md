@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 17:08:16.017206  total: 35808 
+ > update time: 2025-06-18 19:06:32.500070  total: 35811 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2025-44203 - HotelDruid 3.0.0/3.0.7 - Sensitive Information Disclosure, DoS** : [IvanT7D3/CVE-2025-44203](https://github.com/IvanT7D3/CVE-2025-44203)  create time: 2025-06-18T18:22:49Z
+
+**Public Disclosure** : [tansique-17/CVE-2025-26198](https://github.com/tansique-17/CVE-2025-26198)  create time: 2025-06-18T18:19:42Z
+
+**SAP NetWeaver Visual Composer Metadata Uploader <= 7.50 CVE-2025-31324 PoC** : [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)  create time: 2025-05-10T18:52:46Z
 
 **CVE-2024-36401 图形化利用工具，支持各个JDK版本利用以及回显、内存马实现** : [bmth666/GeoServer-Tools-CVE-2024-36401](https://github.com/bmth666/GeoServer-Tools-CVE-2024-36401)  create time: 2025-04-11T04:36:34Z
 
