@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 13:16:55.592380  total: 35806 
+ > update time: 2025-06-18 16:07:11.842242  total: 35807 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)  create time: 2025-06-18T15:18:33Z
 
 **no description** : [h4ckt0m/CVE-2018-25031-test](https://github.com/h4ckt0m/CVE-2018-25031-test)  create time: 2025-06-18T12:47:08Z
 
