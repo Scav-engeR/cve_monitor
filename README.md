@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 07:07:21.334654  total: 35824 
+ > update time: 2025-06-19 13:16:44.980492  total: 35827 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**exploit for CVE-2019-11043** : [bayazid-bit/CVE-2019-11043-](https://github.com/bayazid-bit/CVE-2019-11043-)  create time: 2025-06-19T12:14:28Z
+
+**CVE-2025-0108** : [B1ack4sh/Blackash-CVE-2025-0108](https://github.com/B1ack4sh/Blackash-CVE-2025-0108)  create time: 2025-06-19T12:19:26Z
+
+**no description** : [Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443](https://github.com/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443)  create time: 2025-06-19T12:13:19Z
 
 **exploit for CVE-2019-15107** : [bayazid-bit/CVE-2019-15107](https://github.com/bayazid-bit/CVE-2019-15107)  create time: 2025-06-19T06:47:49Z
 
