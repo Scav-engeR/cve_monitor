@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-18 23:06:27.894555  total: 35817 
+ > update time: 2025-06-19 01:34:35.589060  total: 35818 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a proof-of-concept exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.** : [yaldobaoth/CVE-2015-1578-PoC](https://github.com/yaldobaoth/CVE-2015-1578-PoC)  create time: 2025-06-19T00:42:02Z
 
 **no description** : [bchevCH/CVE-2023-0386](https://github.com/bchevCH/CVE-2023-0386)  create time: 2025-06-18T22:44:31Z
 
