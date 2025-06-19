@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 20:07:14.611149  total: 35836 
+ > update time: 2025-06-19 23:06:03.053108  total: 35837 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit (C) of the CVE-2025-36041 vulnerability in IBM MQ** : [byteReaper77/CVE-2025-36041](https://github.com/byteReaper77/CVE-2025-36041)  create time: 2025-06-19T22:44:04Z
 
 **no description** : [DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2](https://github.com/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2)  create time: 2025-06-19T19:08:40Z
 
