@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 14:06:46.396663  total: 35828 
+ > update time: 2025-06-19 16:06:56.007345  total: 35829 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)  create time: 2025-06-19T16:01:41Z
 
 **Threat intelligence report analyzing the xz-utils backdoor vulnerability (CVE-2024-3094)** : [24Owais/threat-intel-cve-2024-3094](https://github.com/24Owais/threat-intel-cve-2024-3094)  create time: 2025-06-19T13:31:56Z
 
