@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 03:28:01.759709  total: 35820 
+ > update time: 2025-06-19 05:06:47.168174  total: 35821 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Public Disclosure** : [tansique-17/CVE-2025-26199](https://github.com/tansique-17/CVE-2025-26199)  create time: 2025-06-19T04:47:29Z
 
 **no description** : [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)  create time: 2025-06-19T02:42:21Z
 
