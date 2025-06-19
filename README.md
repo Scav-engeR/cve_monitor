@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 16:06:56.007345  total: 35829 
+ > update time: 2025-06-19 17:07:32.820536  total: 35831 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2011-2523.** : [lghost256/vsftpd234-exploit](https://github.com/lghost256/vsftpd234-exploit)  create time: 2025-06-19T16:14:21Z
+
+**no description** : [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)  create time: 2025-06-19T16:39:13Z
 
 **no description** : [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)  create time: 2025-06-19T16:01:41Z
 
