@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-20 03:26:08.652872  total: 35838 
+ > update time: 2025-06-20 06:05:13.242387  total: 35840 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Rejetto HttpFileServer 2.3.x - Remote Command Execution (RevShell)** : [Z3R0-0x30/CVE-2014-6287](https://github.com/Z3R0-0x30/CVE-2014-6287)  create time: 2025-06-20T05:25:52Z
+
+**Tiny File Manager <= 2.4.6 - Remote Code Execution (RCE)** : [Z3R0-0x30/CVE-2021-40964](https://github.com/Z3R0-0x30/CVE-2021-40964)  create time: 2025-06-20T05:30:05Z
 
 **This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.** : [yaldobaoth/CVE-2015-1578-PoC-Metasploit](https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit)  create time: 2025-06-20T02:04:26Z
 
