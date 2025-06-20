@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-19 23:06:03.053108  total: 35837 
+ > update time: 2025-06-20 03:26:08.652872  total: 35838 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.** : [yaldobaoth/CVE-2015-1578-PoC-Metasploit](https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit)  create time: 2025-06-20T02:04:26Z
 
 **Exploit (C) of the CVE-2025-36041 vulnerability in IBM MQ** : [byteReaper77/CVE-2025-36041](https://github.com/byteReaper77/CVE-2025-36041)  create time: 2025-06-19T22:44:04Z
 
