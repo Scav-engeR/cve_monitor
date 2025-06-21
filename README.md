@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-21 05:06:57.145252  total: 35848 
+ > update time: 2025-06-21 07:06:24.560131  total: 35849 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [d4rkh0rse/CVE-2025-2539](https://github.com/d4rkh0rse/CVE-2025-2539)  create time: 2025-06-21T06:51:44Z
 
 **Script que corrigi o exploit da CVE que foi publicado no exploit-db** : [Andreyfreis/CVE-2011-0762](https://github.com/Andreyfreis/CVE-2011-0762)  create time: 2025-06-21T04:08:04Z
 
