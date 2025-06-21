@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-21 12:04:55.407943  total: 35852 
+ > update time: 2025-06-21 15:07:33.153638  total: 35854 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)  create time: 2025-06-21T14:36:30Z
+
+**tomcat CVE-2025-24813 反序列化RCE环境** : [x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)  create time: 2025-06-21T14:20:44Z
 
 **no description** : [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-)  create time: 2025-06-21T11:52:01Z
 
