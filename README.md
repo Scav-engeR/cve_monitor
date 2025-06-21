@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-21 15:07:33.153638  total: 35854 
+ > update time: 2025-06-21 18:06:57.729970  total: 35856 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of concept for HTB easy machine Usage** : [ldb33/CVE-2023-24249-PoC](https://github.com/ldb33/CVE-2023-24249-PoC)  create time: 2025-06-21T17:02:39Z
+
+**This is an automated exploitation script for the Hack The Box machine *Titanic*. It extracts Gitea user hashes via LFI, assists in cracking them, and exploits an ImageMagick vulnerability (CVE-2024-41817) to gain root access via a malicious shared library.** : [maikneysm/AutoPwn-Titanic.htb](https://github.com/maikneysm/AutoPwn-Titanic.htb)  create time: 2025-06-21T11:32:09Z
 
 **no description** : [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)  create time: 2025-06-21T14:36:30Z
 
