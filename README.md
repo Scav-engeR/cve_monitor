@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-21 08:07:14.488480  total: 35850 
+ > update time: 2025-06-21 11:06:49.077330  total: 35851 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC environment and exploit for the Apache Tomcat on Windows Remote Code Execution Vulnerability** : [edyekomu/CVE-2017-12615-PoC](https://github.com/edyekomu/CVE-2017-12615-PoC)  create time: 2025-06-21T10:15:54Z
 
 **CVE-2021-44228 Vulnerability Reproduction Environment CVE-2021-44228 漏洞复现环境** : [x1ongsec/CVE-2021-44228-Log4j-JNDI](https://github.com/x1ongsec/CVE-2021-44228-Log4j-JNDI)  create time: 2025-06-21T07:23:15Z
 
