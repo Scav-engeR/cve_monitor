@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 20:06:41.488723  total: 35870 
+ > update time: 2025-06-22 21:06:36.666518  total: 35871 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE‑2025‑3515 — Drag and Drop Multiple File Upload for Contact Form 7** : [Professor6T9/CVE-2025-3515](https://github.com/Professor6T9/CVE-2025-3515)  create time: 2025-06-22T21:00:10Z
 
 **no description** : [sendINUX/CVE-2021-22600__DirtyPagetable](https://github.com/sendINUX/CVE-2021-22600__DirtyPagetable)  create time: 2025-06-22T19:28:13Z
 
