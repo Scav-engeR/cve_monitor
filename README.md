@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 17:06:14.788414  total: 35866 
+ > update time: 2025-06-22 18:06:35.032288  total: 35867 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detailed discussion of Zygote vulnerability CVE-2024-31317** : [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)  create time: 2025-04-26T16:46:35Z
 
 **Powerful unauthenticated RCE scanner for CVE-2025-3248 affecting Langflow < 1.3.0** : [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)  create time: 2025-06-22T16:30:27Z
 
