@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 18:06:35.032288  total: 35867 
+ > update time: 2025-06-22 19:07:01.334671  total: 35868 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.** : [Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)  create time: 2025-06-22T17:56:59Z
 
 **Detailed discussion of Zygote vulnerability CVE-2024-31317** : [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)  create time: 2025-04-26T16:46:35Z
 
