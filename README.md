@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-21 21:06:53.072853  total: 35857 
+ > update time: 2025-06-22 01:34:44.883702  total: 35858 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2023-46818 - ISPConfig PHP Code Injection PoC Exploit (Bash)** : [rvizx/CVE-2023-46818](https://github.com/rvizx/CVE-2023-46818)  create time: 2025-05-02T04:51:30Z
 
 **CVE-2024-3094** : [Dermot-lab/TryHack](https://github.com/Dermot-lab/TryHack)  create time: 2025-06-21T20:19:43Z
 
