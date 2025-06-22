@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 09:06:23.915939  total: 35859 
+ > update time: 2025-06-22 10:06:33.767954  total: 35861 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE 2018-9035: CSV Injection in Wordpress with plugin Contact Form 7 to Database Extension 2.10.3** : [HaiNhat-HUST/CVE-2018-9035](https://github.com/HaiNhat-HUST/CVE-2018-9035)  create time: 2025-06-22T10:02:39Z
+
+**no description** : [maximo896/CVE-2025-1562](https://github.com/maximo896/CVE-2025-1562)  create time: 2025-06-22T09:12:36Z
 
 **no description** : [allinsthon/CVE-2025-30401](https://github.com/allinsthon/CVE-2025-30401)  create time: 2025-06-22T08:50:04Z
 
