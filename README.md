@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 13:12:08.951669  total: 35862 
+ > update time: 2025-06-22 16:06:37.045736  total: 35864 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Advanced scanner and PoC for CVE-2025-26909 in Hide My WP Ghost** : [issamjr/CVE-2025-26909-Scanner](https://github.com/issamjr/CVE-2025-26909-Scanner)  create time: 2025-06-22T15:58:02Z
+
+**CVE-2025-3248 – Unauthenticated Remote Code Execution in Langflow via Insecure Python exec Usage** : [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)  create time: 2025-06-22T15:49:32Z
 
 **A script that gives you the credentials of a Pterodactyl panel vulnerable to CVE-2025-49132** : [Zen-kun04/CVE-2025-49132](https://github.com/Zen-kun04/CVE-2025-49132)  create time: 2025-06-22T13:08:34Z
 
