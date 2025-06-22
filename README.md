@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 16:06:37.045736  total: 35864 
+ > update time: 2025-06-22 17:06:14.788414  total: 35866 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Powerful unauthenticated RCE scanner for CVE-2025-3248 affecting Langflow < 1.3.0** : [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)  create time: 2025-06-22T16:30:27Z
+
+**A powerful Python scanner to detect CVE-2025-49113 vulnerability in Roundcube Webmail. Developed by Issam Junior (@issamiso).** : [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner)  create time: 2025-06-22T16:13:40Z
 
 **Advanced scanner and PoC for CVE-2025-26909 in Hide My WP Ghost** : [issamjr/CVE-2025-26909-Scanner](https://github.com/issamjr/CVE-2025-26909-Scanner)  create time: 2025-06-22T15:58:02Z
 
