@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-23 13:17:20.378478  total: 35881 
+ > update time: 2025-06-23 14:06:45.053152  total: 35882 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PrintDemon (CVE-2020-1048) Privilege Escalation** : [talsim/printDemon2system](https://github.com/talsim/printDemon2system)  create time: 2025-06-23T13:24:38Z
 
 **CVE-2025-26466 .rb module for msfconsole** : [mrowkoob/CVE-2025-26466-msf](https://github.com/mrowkoob/CVE-2025-26466-msf)  create time: 2025-06-23T13:00:11Z
 
