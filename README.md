@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-22 21:06:36.666518  total: 35871 
+ > update time: 2025-06-23 01:34:59.860425  total: 35873 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Execution Exploit for Langflow (CVE-2025-3248) - [ By S4Tech ]** : [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)  create time: 2025-06-23T01:23:09Z
+
+**Check a list of Pterodactyl panels for vulnerabilities from a file.** : [nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)  create time: 2025-06-23T00:38:26Z
 
 **CVE‑2025‑3515 — Drag and Drop Multiple File Upload for Contact Form 7** : [Professor6T9/CVE-2025-3515](https://github.com/Professor6T9/CVE-2025-3515)  create time: 2025-06-22T21:00:10Z
 
