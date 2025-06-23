@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-23 06:07:55.772941  total: 35877 
+ > update time: 2025-06-23 10:07:42.270651  total: 35880 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass-CVE-2025-3248** : [dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)  create time: 2025-06-23T09:36:39Z
+
+**CVE-2025-3248** : [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)  create time: 2025-06-23T09:30:48Z
+
+**no description** : [pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)  create time: 2025-06-23T00:20:43Z
 
 **Repo tor showcase the exploit** : [O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce)  create time: 2025-06-23T05:50:54Z
 
