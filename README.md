@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-23 16:03:14.876666  total: 35883 
+ > update time: 2025-06-23 17:06:45.367692  total: 35885 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [cuerv0x/CVE-2015-6967](https://github.com/cuerv0x/CVE-2015-6967)  create time: 2025-06-23T16:23:56Z
+
+**Site containing info useful for demonstrate CVE-2023-37273** : [gdesantis01/exploit-autogpt-0.4.2-site](https://github.com/gdesantis01/exploit-autogpt-0.4.2-site)  create time: 2025-06-23T16:48:53Z
 
 **CVE-2025-45710** : [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)  create time: 2025-06-23T15:16:57Z
 
