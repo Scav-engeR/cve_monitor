@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-24 03:29:21.835394  total: 35891 
+ > update time: 2025-06-24 08:08:10.765701  total: 35892 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**It is the details of CVE-2025-45466** : [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466)  create time: 2025-06-24T06:12:49Z
 
 **no description** : [joelczk/CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461)  create time: 2025-06-24T03:16:47Z
 
