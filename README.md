@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-24 17:07:15.486536  total: 35898 
+ > update time: 2025-06-24 18:07:10.528007  total: 35899 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [z3usx01/CVE-2025-0054](https://github.com/z3usx01/CVE-2025-0054)  create time: 2025-04-20T16:05:07Z
 
 **🚨 CVE-2025-5309 Multi-Method SSTI Scanner | BeyondTrust Detection Tool by Issam** : [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)  create time: 2025-06-24T16:38:25Z
 
