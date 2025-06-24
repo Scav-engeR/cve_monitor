@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-24 11:06:45.567318  total: 35894 
+ > update time: 2025-06-24 12:07:57.576621  total: 35895 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [zgsnj123/CVE-2025-45467](https://github.com/zgsnj123/CVE-2025-45467)  create time: 2025-06-24T06:58:40Z
 
 **Reflected XSS vulnerability found in Palo Alto GlobalProtect Gateway & Portal. Attackers can inject malicious scripts via crafted requests.** : [INTELEON404/CVE-2025-0133](https://github.com/INTELEON404/CVE-2025-0133)  create time: 2025-06-24T10:25:32Z
 
