@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-24 20:06:42.205584  total: 35900 
+ > update time: 2025-06-24 23:06:32.679350  total: 35901 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script checks for the OpenSSH 7.7 (and prior) username enumeration vulnerability (CVE-2018-15473). It sends a malformed authentication packet and interprets the SSH server’s response to identify valid usernames.** : [makmour/open-ssh-user-enumeration](https://github.com/makmour/open-ssh-user-enumeration)  create time: 2025-05-30T10:58:22Z
 
 **PoCs for CVE-2025-49132** : [63square/CVE-2025-49132](https://github.com/63square/CVE-2025-49132)  create time: 2025-06-24T19:41:41Z
 
