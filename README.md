@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-25 14:06:47.000682  total: 35914 
+ > update time: 2025-06-25 16:06:52.579723  total: 35915 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [A1b2rt/cve-2022-0995](https://github.com/A1b2rt/cve-2022-0995)  create time: 2025-06-25T15:52:57Z
 
 **no description** : [luckyman2907/SMB-Protocol-Vulnerability_CVE-2017-0144](https://github.com/luckyman2907/SMB-Protocol-Vulnerability_CVE-2017-0144)  create time: 2025-06-25T13:27:59Z
 
