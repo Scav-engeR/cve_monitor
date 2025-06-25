@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-24 23:06:32.679350  total: 35901 
+ > update time: 2025-06-25 00:13:13.799943  total: 35902 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A script is a PoC for **CVE-2022-1257**, a vulnerability in the McAfee Agent (Trellix Agent) when working with it's database. The vulnerability allows attackers to retrieve and decrypt credentials from the McAfee Agent database file (`ma.db`) due to improper encryption key handling.** : [kayes817/CVE-2022-1257](https://github.com/kayes817/CVE-2022-1257)  create time: 2025-06-24T23:51:35Z
 
 **This script checks for the OpenSSH 7.7 (and prior) username enumeration vulnerability (CVE-2018-15473). It sends a malformed authentication packet and interprets the SSH server’s response to identify valid usernames.** : [makmour/open-ssh-user-enumeration](https://github.com/makmour/open-ssh-user-enumeration)  create time: 2025-05-30T10:58:22Z
 
