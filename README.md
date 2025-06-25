@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-25 18:07:09.260653  total: 35917 
+ > update time: 2025-06-25 19:06:45.051638  total: 35919 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)  create time: 2025-06-25T18:50:17Z
+
+**Scanner - CVE-2025-49132** : [melonlonmeo/CVE-2025-49132](https://github.com/melonlonmeo/CVE-2025-49132)  create time: 2025-06-25T18:05:16Z
 
 **PoC and technical advisory for CVE-2025-51046 – An unauthenticated RCE vulnerability in SourceCodester Online Student Clearance System 1.0 caused by improper file upload validation in edit-photo.php.** : [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046)  create time: 2025-06-25T17:44:20Z
 
