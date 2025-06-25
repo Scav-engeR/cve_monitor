@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-25 19:06:45.051638  total: 35919 
+ > update time: 2025-06-25 20:07:00.210135  total: 35925 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit para escalada de privilegios en Linux basado en la vulnerabilidad Dirty Cow (CVE-2016-5195). Incluye binario, código fuente e instrucciones para su uso en entornos controlados.** : [Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)  create time: 2025-06-25T19:50:27Z
+
+**TI WooCommerce Wishlist (WordPress plugin) <= 2.8.2 CVE-2024-43917 PoC** : [sug4r-wr41th/CVE-2024-43917](https://github.com/sug4r-wr41th/CVE-2024-43917)  create time: 2025-06-25T19:52:52Z
+
+**This is for testing.** : [jamesb5959/CVE-2025-30712-_PoC](https://github.com/jamesb5959/CVE-2025-30712-_PoC)  create time: 2025-06-25T19:56:34Z
+
+**TI WooCommerce Wishlist (WordPress plugin) <= 2.9.2 CVE-2025-47577 PoC** : [sug4r-wr41th/CVE-2025-47577](https://github.com/sug4r-wr41th/CVE-2025-47577)  create time: 2025-06-25T19:54:27Z
+
+**CVE-2025-49144 PoC for security researchers to test and try.** : [TheTorjanCaptain/CVE-2025-49144_PoC](https://github.com/TheTorjanCaptain/CVE-2025-49144_PoC)  create time: 2025-06-25T19:23:57Z
+
+**CVE-2025-30208** : [B1ack4sh/Blackash-CVE-2025-30208](https://github.com/B1ack4sh/Blackash-CVE-2025-30208)  create time: 2025-06-25T19:04:04Z
 
 **no description** : [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)  create time: 2025-06-25T18:50:17Z
 
