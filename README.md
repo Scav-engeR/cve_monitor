@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-25 00:13:13.799943  total: 35902 
+ > update time: 2025-06-25 02:37:41.825106  total: 35904 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Metasploit Modules** : [SyFi/CVE-2023-46818](https://github.com/SyFi/CVE-2023-46818)  create time: 2025-06-25T02:09:42Z
+
+**This takes advatage of the web applications poor session management on the takashi router and repeater.** : [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control)  create time: 2025-03-05T18:11:59Z
 
 **A script is a PoC for **CVE-2022-1257**, a vulnerability in the McAfee Agent (Trellix Agent) when working with it's database. The vulnerability allows attackers to retrieve and decrypt credentials from the McAfee Agent database file (`ma.db`) due to improper encryption key handling.** : [kayes817/CVE-2022-1257](https://github.com/kayes817/CVE-2022-1257)  create time: 2025-06-24T23:51:35Z
 
