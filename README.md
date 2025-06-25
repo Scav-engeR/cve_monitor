@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-25 20:07:00.210135  total: 35925 
+ > update time: 2025-06-25 21:06:36.392472  total: 35928 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote code exec cent os web panel by trhacknon** : [trh4ckn0n/CVE-2025-48703](https://github.com/trh4ckn0n/CVE-2025-48703)  create time: 2025-06-25T20:52:19Z
+
+**Batch RCE scanner for vulnerable vBulletin instances using replaceAdTemplate exploit.** : [ill-deed/vBulletin-CVE-2025-48828-Multi-target](https://github.com/ill-deed/vBulletin-CVE-2025-48828-Multi-target)  create time: 2025-06-25T20:06:09Z
+
+**Debian build files for icu 74.2 with a patch to fix CVE-2025-5222** : [berkley4/icu-74-debian](https://github.com/berkley4/icu-74-debian)  create time: 2025-06-25T18:01:59Z
 
 **Exploit para escalada de privilegios en Linux basado en la vulnerabilidad Dirty Cow (CVE-2016-5195). Incluye binario, código fuente e instrucciones para su uso en entornos controlados.** : [Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/Samuel-G3/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)  create time: 2025-06-25T19:50:27Z
 
