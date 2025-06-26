@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-26 19:03:15.171241  total: 35933 
+ > update time: 2025-06-26 21:06:59.409686  total: 35934 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A test attack for CVE-2025-49144** : [tristanvandermeer/CVE-2025-49144-Test](https://github.com/tristanvandermeer/CVE-2025-49144-Test)  create time: 2025-06-26T20:34:55Z
 
 **CVE-2025-49144 * Notepad++ v8.8.1 * SYSTEM-level POC** : [assad12341/notepad-v8.8.1-LPE-CVE-](https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-)  create time: 2025-06-26T18:17:23Z
 
