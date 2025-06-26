@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2025-06-26 16:07:31.681737  total: 35932 
+ > update time: 2025-06-26 19:03:15.171241  total: 35933 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2025-49144 * Notepad++ v8.8.1 * SYSTEM-level POC** : [assad12341/notepad-v8.8.1-LPE-CVE-](https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-)  create time: 2025-06-26T18:17:23Z
 
 **Script para determinar si Citrix es vulnerable al CVE-2025-6543** : [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)  create time: 2025-06-26T15:05:43Z
 
